@@ -1,0 +1,1001 @@
+Driver_ID,Driver_Name,Rating,Avg_Daily_Working_Hours,Last_Week_Hours,Last_Week_Base_Earnings_EUR,Bonus_Status,Bonus_Amount_EUR,Total_Last_Week_Earnings_EUR
+DRV-10000,Toomas Lõhmus,4.99,4-6 hours/day,30.7,454.14,Yes,15.0,469.14
+DRV-10001,Kevad Kukk,5.0,< 2 hours/day,3.5,42.22,No,0.0,42.22
+DRV-10002,Mikk Lõhmus,4.93,< 2 hours/day,7.6,101.09,No,0.0,101.09
+DRV-10003,Andrus Tamm,4.95,2-4 hours/day,19.6,281.34,No,0.0,281.34
+DRV-10004,Kristjan Raudsepp,4.92,4-6 hours/day,36.7,481.48,No,0.0,481.48
+DRV-10005,Vladimir Popov,4.99,8 hours/day,51.0,653.42,Yes,10.0,663.42
+DRV-10006,Anton Fedorov,4.93,4-6 hours/day,32.1,407.65,Yes,25.0,432.65
+DRV-10007,Margus Laur,4.71,10 hours/day,61.0,891.11,Yes,10.0,901.11
+DRV-10008,Karl Rebane,4.86,4-6 hours/day,32.7,422.4,Yes,35.0,457.4
+DRV-10009,Oliver Tamm,4.99,8 hours/day,52.2,754.09,No,0.0,754.09
+DRV-10010,Wei Khan,4.98,4-6 hours/day,30.7,369.02,Yes,35.0,404.02
+DRV-10011,Lukas Nõmm,4.98,2-4 hours/day,16.2,203.75,No,0.0,203.75
+DRV-10012,Ahmed Novak,4.97,2-4 hours/day,15.0,182.44,No,0.0,182.44
+DRV-10013,Vitali Sokolov,4.98,8 hours/day,50.0,604.84,Yes,15.0,619.84
+DRV-10014,Martin Laur,4.75,8 hours/day,51.2,750.95,No,0.0,750.95
+DRV-10015,Kaspar Kask,4.99,4-6 hours/day,32.7,420.61,Yes,15.0,435.61
+DRV-10016,Stanislav Kuznetsov,4.96,8 hours/day,49.7,730.93,No,0.0,730.93
+DRV-10017,Taavi Tamm,4.97,4-6 hours/day,33.4,475.76,No,0.0,475.76
+DRV-10018,Mikk Laur,4.94,4-6 hours/day,39.7,496.91,Yes,15.0,511.91
+DRV-10019,Pavel Smirnov,4.67,< 2 hours/day,10.3,141.25,No,0.0,141.25
+DRV-10020,Aleksandr Popov,4.89,4-6 hours/day,37.7,472.73,Yes,15.0,487.73
+DRV-10021,Siim Nõmm,4.86,4-6 hours/day,38.7,490.36,Yes,35.0,525.36
+DRV-10022,Martin Kukk,4.99,10 hours/day,63.5,847.12,No,0.0,847.12
+DRV-10023,Wei Khan,4.71,10 hours/day,58.9,783.51,Yes,10.0,793.51
+DRV-10024,Siim Saar,4.96,4-6 hours/day,30.4,403.83,Yes,35.0,438.83
+DRV-10025,Lukas Sepp,4.95,< 2 hours/day,4.5,56.45,No,0.0,56.45
+DRV-10026,Lukas Mägi,4.77,8 hours/day,51.2,742.67,No,0.0,742.67
+DRV-10027,Jevgeni Smirnov,4.91,8 hours/day,45.5,590.55,Yes,10.0,600.55
+DRV-10028,Taavi Rebane,4.88,8 hours/day,47.6,654.47,No,0.0,654.47
+DRV-10029,Sergei Ivanov,4.85,2-4 hours/day,22.7,288.18,No,0.0,288.18
+DRV-10030,Marko Vaher,4.98,2-4 hours/day,21.5,290.71,No,0.0,290.71
+DRV-10031,Kalle Lepp,4.95,8 hours/day,48.1,646.26,No,0.0,646.26
+DRV-10032,Vladimir Fedorov,4.92,< 2 hours/day,5.2,65.77,No,0.0,65.77
+DRV-10033,Sander Nõmm,4.93,8 hours/day,46.7,628.89,Yes,10.0,638.89
+DRV-10034,Karl Tamm,4.86,< 2 hours/day,8.9,127.19,No,0.0,127.19
+DRV-10035,Oliver Raudsepp,4.94,< 2 hours/day,9.5,122.1,No,0.0,122.1
+DRV-10036,Stanislav Petrov,4.96,10 hours/day,63.7,904.9,No,0.0,904.9
+DRV-10037,Jānis Rebane,4.99,4-6 hours/day,30.4,453.47,Yes,25.0,478.47
+DRV-10038,Igor Volkov,4.94,4-6 hours/day,36.0,479.38,No,0.0,479.38
+DRV-10039,Aleksandr Sokolov,4.88,< 2 hours/day,8.4,108.38,No,0.0,108.38
+DRV-10040,Vitali Smirnov,4.73,8 hours/day,43.1,539.98,Yes,15.0,554.98
+DRV-10041,Siim Lõhmus,4.95,8 hours/day,51.7,749.45,No,0.0,749.45
+DRV-10042,Kevad Kallas,4.93,2-4 hours/day,18.5,225.6,No,0.0,225.6
+DRV-10043,Dmitri Sokolov,4.96,2-4 hours/day,21.0,290.88,Yes,10.0,300.88
+DRV-10044,Toomas Tamm,4.96,8 hours/day,48.2,710.85,Yes,10.0,720.85
+DRV-10045,Vladimir Vasiliev,4.99,2-4 hours/day,16.1,231.23,Yes,10.0,241.23
+DRV-10046,Priit Saar,4.74,8 hours/day,53.6,679.6,No,0.0,679.6
+DRV-10047,Toomas Rebane,4.94,4-6 hours/day,37.0,493.85,Yes,25.0,518.85
+DRV-10048,Artur Lebedev,4.84,4-6 hours/day,30.3,452.31,Yes,25.0,477.31
+DRV-10049,Igor Semenov,4.94,10 hours/day,58.6,703.23,No,0.0,703.23
+DRV-10050,Toomas Nõmm,4.93,8 hours/day,45.7,562.48,No,0.0,562.48
+DRV-10051,Toomas Sepp,4.98,2-4 hours/day,19.9,271.13,No,0.0,271.13
+DRV-10052,Tariq Zhang,4.94,< 2 hours/day,7.4,93.58,No,0.0,93.58
+DRV-10053,Toomas Lõhmus,4.97,< 2 hours/day,9.8,130.02,No,0.0,130.02
+DRV-10054,Roman Popov,4.94,4-6 hours/day,34.2,428.45,No,0.0,428.45
+DRV-10055,Oliver Laur,4.76,2-4 hours/day,14.5,194.67,No,0.0,194.67
+DRV-10056,Margus Tamm,4.94,2-4 hours/day,19.5,287.41,No,0.0,287.41
+DRV-10057,Margus Ilves,4.95,4-6 hours/day,33.2,460.37,Yes,35.0,495.37
+DRV-10058,Nikolai Novikov,4.98,4-6 hours/day,30.0,399.63,Yes,25.0,424.63
+DRV-10059,Jevgeni Popov,4.97,4-6 hours/day,33.9,468.3,Yes,35.0,503.3
+DRV-10060,Mikk Vaher,4.84,4-6 hours/day,37.9,514.06,No,0.0,514.06
+DRV-10061,Anton Novikov,4.91,8 hours/day,42.4,577.55,No,0.0,577.55
+DRV-10062,Ahmed Khan,4.94,8 hours/day,48.7,669.03,No,0.0,669.03
+DRV-10063,Maxim Popov,4.89,4-6 hours/day,35.2,489.9,Yes,25.0,514.9
+DRV-10064,Priit Mets,4.78,< 2 hours/day,10.8,150.14,No,0.0,150.14
+DRV-10065,Vitali Kuznetsov,4.87,2-4 hours/day,18.9,267.91,Yes,10.0,277.91
+DRV-10066,Margus Koppel,4.92,< 2 hours/day,11.8,157.61,No,0.0,157.61
+DRV-10067,Kristjan Rebane,4.91,4-6 hours/day,34.3,491.29,Yes,35.0,526.29
+DRV-10068,Vitali Vasiliev,4.92,10 hours/day,61.4,800.48,No,0.0,800.48
+DRV-10069,Andrei Petrov,4.99,8 hours/day,50.4,650.45,No,0.0,650.45
+DRV-10070,Ahmed Wang,4.99,2-4 hours/day,16.4,243.39,No,0.0,243.39
+DRV-10071,Tariq Khan,4.96,4-6 hours/day,39.5,519.88,Yes,15.0,534.88
+DRV-10072,Lukas Ilves,4.92,8 hours/day,47.9,714.02,No,0.0,714.02
+DRV-10073,Aleksandr Petrov,4.9,2-4 hours/day,19.5,279.7,Yes,15.0,294.7
+DRV-10074,Aleksandr Egorov,4.91,< 2 hours/day,3.6,51.18,No,0.0,51.18
+DRV-10075,Aleksandr Popov,4.94,4-6 hours/day,29.6,441.55,No,0.0,441.55
+DRV-10076,Mikk Kallas,4.97,< 2 hours/day,11.0,158.37,No,0.0,158.37
+DRV-10077,Toomas Lõhmus,4.99,10 hours/day,66.3,922.23,No,0.0,922.23
+DRV-10078,Nikolai Smirnov,4.93,< 2 hours/day,8.5,123.13,No,0.0,123.13
+DRV-10079,Omar Ali,4.87,4-6 hours/day,31.6,469.5,No,0.0,469.5
+DRV-10080,Jānis Oja,4.94,< 2 hours/day,4.7,62.34,No,0.0,62.34
+DRV-10081,Jānis Rebane,4.94,2-4 hours/day,22.1,266.01,No,0.0,266.01
+DRV-10082,Alexandre Volkov,4.91,< 2 hours/day,6.6,87.58,No,0.0,87.58
+DRV-10083,Lukas Kask,4.8,4-6 hours/day,38.0,567.37,Yes,15.0,582.37
+DRV-10084,Hendrik Kukk,4.87,4-6 hours/day,35.5,461.37,No,0.0,461.37
+DRV-10085,Andrus Oja,4.89,10 hours/day,57.0,824.8,No,0.0,824.8
+DRV-10086,Kristjan Koppel,4.98,4-6 hours/day,33.5,444.02,Yes,35.0,479.02
+DRV-10087,Oliver Mägi,4.91,8 hours/day,53.7,715.86,No,0.0,715.86
+DRV-10088,Mikhail Fedorov,4.87,8 hours/day,43.5,572.52,No,0.0,572.52
+DRV-10089,Mikhail Fedorov,4.94,8 hours/day,52.5,652.96,No,0.0,652.96
+DRV-10090,Siim Tamm,4.87,8 hours/day,50.2,707.06,No,0.0,707.06
+DRV-10091,Aleksandr Lebedev,4.7,4-6 hours/day,36.9,535.28,Yes,25.0,560.28
+DRV-10092,Lukas Oja,4.92,10 hours/day,69.7,980.67,No,0.0,980.67
+DRV-10093,Kalle Kukk,4.99,< 2 hours/day,9.1,111.79,No,0.0,111.79
+DRV-10094,Hendrik Lepp,4.99,4-6 hours/day,39.2,543.44,Yes,25.0,568.44
+DRV-10095,Oliver Tamm,4.9,8 hours/day,44.2,543.93,No,0.0,543.93
+DRV-10096,Sander Kallas,4.85,2-4 hours/day,20.3,279.9,Yes,10.0,289.9
+DRV-10097,Maxim Novikov,4.95,4-6 hours/day,37.6,526.62,No,0.0,526.62
+DRV-10098,Lukas Lõhmus,4.93,4-6 hours/day,35.3,522.67,No,0.0,522.67
+DRV-10099,Andrus Mets,5.0,8 hours/day,47.2,615.28,No,0.0,615.28
+DRV-10100,Mohamed Wang,4.86,4-6 hours/day,30.4,399.88,Yes,35.0,434.88
+DRV-10101,Hendrik Oja,4.92,4-6 hours/day,35.5,505.9,Yes,25.0,530.9
+DRV-10102,Kalle Kallas,4.97,2-4 hours/day,16.4,222.03,No,0.0,222.03
+DRV-10103,Toomas Rebane,4.97,2-4 hours/day,16.1,228.61,Yes,15.0,243.61
+DRV-10104,Igor Vasiliev,4.93,4-6 hours/day,29.3,415.21,Yes,35.0,450.21
+DRV-10105,Lei Liu,4.92,4-6 hours/day,30.2,441.85,Yes,35.0,476.85
+DRV-10106,Artur Novikov,4.78,2-4 hours/day,15.7,225.26,No,0.0,225.26
+DRV-10107,Toomas Vaher,4.97,8 hours/day,47.8,706.89,No,0.0,706.89
+DRV-10108,Hendrik Laur,4.85,8 hours/day,48.4,719.55,Yes,10.0,729.55
+DRV-10109,Karl Koppel,4.98,8 hours/day,43.4,575.38,Yes,10.0,585.38
+DRV-10110,Kalle Pärn,4.96,4-6 hours/day,35.2,522.5,Yes,25.0,547.5
+DRV-10111,Artur Kuznetsov,4.87,8 hours/day,47.7,636.7,No,0.0,636.7
+DRV-10112,Lukas Sepp,4.97,< 2 hours/day,8.4,111.96,No,0.0,111.96
+DRV-10113,Marko Vaher,4.97,4-6 hours/day,33.2,408.25,Yes,15.0,423.25
+DRV-10114,Siim Oja,4.95,4-6 hours/day,40.0,515.88,Yes,25.0,540.88
+DRV-10115,Kaspar Kuusk,4.81,10 hours/day,68.2,873.02,No,0.0,873.02
+DRV-10116,Stanislav Volkov,4.98,4-6 hours/day,32.7,447.9,No,0.0,447.9
+DRV-10117,Hendrik Mägi,4.78,4-6 hours/day,39.5,560.46,Yes,15.0,575.46
+DRV-10118,Aleksandr Alekseev,4.93,2-4 hours/day,22.1,271.11,No,0.0,271.11
+DRV-10119,Martin Laur,4.98,8 hours/day,46.5,619.77,Yes,10.0,629.77
+DRV-10120,Dmitri Fedorov,4.99,< 2 hours/day,11.9,152.24,No,0.0,152.24
+DRV-10121,Margus Koppel,4.92,4-6 hours/day,31.6,430.4,No,0.0,430.4
+DRV-10122,Vitali Smirnov,4.94,8 hours/day,49.6,618.92,No,0.0,618.92
+DRV-10123,Anton Semenov,4.99,2-4 hours/day,21.5,271.34,No,0.0,271.34
+DRV-10124,Maxim Sokolov,4.98,2-4 hours/day,15.9,197.86,Yes,15.0,212.86
+DRV-10125,Siim Koppel,4.98,4-6 hours/day,29.7,445.27,Yes,15.0,460.27
+DRV-10126,Igor Kuznetsov,4.94,4-6 hours/day,37.3,476.72,No,0.0,476.72
+DRV-10127,Marko Oja,4.99,4-6 hours/day,31.1,439.26,No,0.0,439.26
+DRV-10128,Martin Kask,4.92,2-4 hours/day,19.2,258.24,No,0.0,258.24
+DRV-10129,Denis Smirnov,4.99,4-6 hours/day,31.0,380.89,Yes,35.0,415.89
+DRV-10130,Vladimir Semenov,4.87,4-6 hours/day,28.8,417.61,Yes,35.0,452.61
+DRV-10131,Aleksandr Vasiliev,4.85,4-6 hours/day,29.4,428.88,Yes,15.0,443.88
+DRV-10132,Priit Oja,4.89,< 2 hours/day,3.6,47.41,No,0.0,47.41
+DRV-10133,Mikhail Vasiliev,4.94,< 2 hours/day,10.4,127.17,No,0.0,127.17
+DRV-10134,Anton Fedorov,4.97,2-4 hours/day,19.3,285.56,No,0.0,285.56
+DRV-10135,Vitali Vasiliev,4.99,4-6 hours/day,37.8,470.99,No,0.0,470.99
+DRV-10136,Kristjan Mets,4.81,4-6 hours/day,36.7,475.2,Yes,25.0,500.2
+DRV-10137,Nikolai Volkov,4.96,8 hours/day,49.9,692.59,Yes,15.0,707.59
+DRV-10138,Aleksandr Kuznetsov,4.98,4-6 hours/day,32.3,459.36,No,0.0,459.36
+DRV-10139,Sander Rebane,4.98,2-4 hours/day,20.1,279.57,No,0.0,279.57
+DRV-10140,Lukas Oja,4.95,4-6 hours/day,38.8,557.46,No,0.0,557.46
+DRV-10141,Kristjan Saar,4.92,< 2 hours/day,11.7,162.8,No,0.0,162.8
+DRV-10142,Jānis Rebane,4.99,4-6 hours/day,33.6,490.85,No,0.0,490.85
+DRV-10143,Oliver Ilves,4.99,< 2 hours/day,9.7,129.95,No,0.0,129.95
+DRV-10144,Sander Tamm,4.98,4-6 hours/day,33.5,480.13,No,0.0,480.13
+DRV-10145,Maxim Semenov,4.98,4-6 hours/day,31.3,429.48,Yes,35.0,464.48
+DRV-10146,Hendrik Rebane,4.96,2-4 hours/day,24.0,350.97,No,0.0,350.97
+DRV-10147,Kevad Kuusk,4.99,4-6 hours/day,37.1,537.67,Yes,15.0,552.67
+DRV-10148,Mikk Oja,4.95,8 hours/day,48.6,616.15,Yes,10.0,626.15
+DRV-10149,Nikolai Vasiliev,4.93,2-4 hours/day,16.5,207.46,No,0.0,207.46
+DRV-10150,Karl Vaher,4.98,< 2 hours/day,11.5,143.73,No,0.0,143.73
+DRV-10151,Toomas Tamm,4.96,2-4 hours/day,21.5,268.93,Yes,15.0,283.93
+DRV-10152,Kristjan Raudsepp,4.97,8 hours/day,53.2,692.43,Yes,15.0,707.43
+DRV-10153,Kalle Raudsepp,4.93,2-4 hours/day,22.9,284.96,No,0.0,284.96
+DRV-10154,Kaspar Kuusk,4.97,4-6 hours/day,32.2,451.57,Yes,35.0,486.57
+DRV-10155,Vladimir Vasiliev,4.97,10 hours/day,58.2,831.63,No,0.0,831.63
+DRV-10156,Nikolai Petrov,4.88,8 hours/day,45.2,628.62,No,0.0,628.62
+DRV-10157,Andrei Novikov,4.98,10 hours/day,58.9,822.02,No,0.0,822.02
+DRV-10158,Lukas Sepp,4.92,4-6 hours/day,30.5,374.27,No,0.0,374.27
+DRV-10159,Kevad Kukk,4.96,8 hours/day,51.1,692.1,No,0.0,692.1
+DRV-10160,Mikhail Fedorov,4.9,4-6 hours/day,30.9,408.48,Yes,35.0,443.48
+DRV-10161,Artur Semenov,4.95,< 2 hours/day,3.9,48.62,No,0.0,48.62
+DRV-10162,Sander Mets,4.89,10 hours/day,58.4,802.46,Yes,10.0,812.46
+DRV-10163,Karl Mägi,4.97,10 hours/day,64.9,941.59,No,0.0,941.59
+DRV-10164,Kaspar Lepp,4.98,8 hours/day,53.2,792.14,No,0.0,792.14
+DRV-10165,Igor Vasiliev,4.96,2-4 hours/day,18.8,275.72,Yes,15.0,290.72
+DRV-10166,Kristjan Kask,4.98,4-6 hours/day,36.9,520.51,No,0.0,520.51
+DRV-10167,Kaspar Kallas,4.98,4-6 hours/day,31.6,429.33,Yes,15.0,444.33
+DRV-10168,Stanislav Smirnov,4.93,2-4 hours/day,23.1,285.27,No,0.0,285.27
+DRV-10169,Oliver Laur,4.98,2-4 hours/day,23.8,334.43,No,0.0,334.43
+DRV-10170,Kaspar Lõhmus,4.98,2-4 hours/day,24.3,355.26,Yes,10.0,365.26
+DRV-10171,Omar Wang,4.95,2-4 hours/day,22.1,274.71,No,0.0,274.71
+DRV-10172,Mikk Laur,4.96,2-4 hours/day,22.5,327.62,Yes,10.0,337.62
+DRV-10173,Margus Kask,4.94,4-6 hours/day,33.5,410.06,No,0.0,410.06
+DRV-10174,Kevad Kukk,4.96,4-6 hours/day,35.0,431.87,Yes,15.0,446.87
+DRV-10175,Siim Laur,4.99,4-6 hours/day,36.5,484.24,Yes,15.0,499.24
+DRV-10176,Dmitri Lebedev,4.95,4-6 hours/day,37.4,556.21,Yes,35.0,591.21
+DRV-10177,Tariq Ahmed,4.88,8 hours/day,50.1,602.22,No,0.0,602.22
+DRV-10178,Aleksandr Ivanov,4.92,2-4 hours/day,19.4,248.79,No,0.0,248.79
+DRV-10179,Taavi Kukk,5.0,2-4 hours/day,19.0,260.38,No,0.0,260.38
+DRV-10180,Jānis Pärn,5.0,4-6 hours/day,28.6,418.69,Yes,25.0,443.69
+DRV-10181,Stanislav Volkov,4.95,8 hours/day,51.5,638.43,No,0.0,638.43
+DRV-10182,Stanislav Sokolov,4.93,8 hours/day,46.4,598.71,No,0.0,598.71
+DRV-10183,Kalle Rebane,4.75,2-4 hours/day,16.5,223.74,No,0.0,223.74
+DRV-10184,Maxim Novikov,4.9,4-6 hours/day,38.9,518.71,Yes,35.0,553.71
+DRV-10185,Mateusz Ali,4.89,4-6 hours/day,28.6,343.54,Yes,25.0,368.54
+DRV-10186,Kalle Rebane,4.93,2-4 hours/day,16.1,211.55,No,0.0,211.55
+DRV-10187,Siim Tamm,4.9,4-6 hours/day,36.6,507.32,No,0.0,507.32
+DRV-10188,Vladimir Egorov,4.89,4-6 hours/day,30.7,453.28,Yes,35.0,488.28
+DRV-10189,Denis Lebedev,4.84,2-4 hours/day,17.3,235.48,No,0.0,235.48
+DRV-10190,Kristjan Kuusk,5.0,8 hours/day,51.5,756.22,Yes,15.0,771.22
+DRV-10191,Vitali Petrov,4.9,< 2 hours/day,6.3,78.38,No,0.0,78.38
+DRV-10192,Karl Laur,4.9,8 hours/day,53.2,679.8,Yes,10.0,689.8
+DRV-10193,Martin Tamm,4.94,2-4 hours/day,23.6,310.2,No,0.0,310.2
+DRV-10194,Siim Sepp,4.95,4-6 hours/day,29.5,390.43,No,0.0,390.43
+DRV-10195,Taavi Laur,4.97,2-4 hours/day,18.4,263.9,No,0.0,263.9
+DRV-10196,Karl Kukk,4.88,< 2 hours/day,6.5,78.49,No,0.0,78.49
+DRV-10197,Tariq Chen,4.93,8 hours/day,49.7,669.01,No,0.0,669.01
+DRV-10198,Mikk Mägi,4.95,10 hours/day,67.4,812.8,No,0.0,812.8
+DRV-10199,Nikolai Sokolov,4.91,10 hours/day,68.9,865.21,No,0.0,865.21
+DRV-10200,Roman Alekseev,4.88,4-6 hours/day,38.7,535.85,Yes,35.0,570.85
+DRV-10201,Andrei Petrov,4.79,2-4 hours/day,19.6,273.8,No,0.0,273.8
+DRV-10202,Karl Oja,4.94,2-4 hours/day,17.5,235.05,Yes,15.0,250.05
+DRV-10203,Taavi Kallas,5.0,2-4 hours/day,14.4,185.22,No,0.0,185.22
+DRV-10204,Nikolai Ivanov,4.85,10 hours/day,63.7,860.47,No,0.0,860.47
+DRV-10205,Margus Mägi,5.0,8 hours/day,43.4,536.19,No,0.0,536.19
+DRV-10206,Stanislav Fedorov,4.95,10 hours/day,57.2,829.14,Yes,10.0,839.14
+DRV-10207,Omar Liu,4.99,10 hours/day,60.2,745.93,No,0.0,745.93
+DRV-10208,Rasmus Nõmm,4.92,8 hours/day,52.4,693.32,No,0.0,693.32
+DRV-10209,Priit Vaher,4.99,10 hours/day,69.8,890.83,No,0.0,890.83
+DRV-10210,Nikolai Kuznetsov,4.91,4-6 hours/day,30.9,371.26,Yes,15.0,386.26
+DRV-10211,Sander Koppel,4.97,2-4 hours/day,21.4,270.96,Yes,15.0,285.96
+DRV-10212,Toomas Ilves,4.92,< 2 hours/day,10.3,141.66,No,0.0,141.66
+DRV-10213,Jānis Tamm,4.79,4-6 hours/day,33.7,443.97,No,0.0,443.97
+DRV-10214,Jevgeni Vasiliev,4.92,< 2 hours/day,11.1,134.44,No,0.0,134.44
+DRV-10215,Martin Koppel,4.95,< 2 hours/day,8.6,119.63,No,0.0,119.63
+DRV-10216,Artur Semenov,4.98,< 2 hours/day,5.8,85.58,No,0.0,85.58
+DRV-10217,Roman Alekseev,4.95,< 2 hours/day,2.2,27.43,No,0.0,27.43
+DRV-10218,Taavi Lõhmus,4.99,< 2 hours/day,11.8,145.19,No,0.0,145.19
+DRV-10219,Maxim Egorov,4.83,8 hours/day,50.3,634.09,No,0.0,634.09
+DRV-10220,Marko Tamm,4.92,< 2 hours/day,9.8,123.92,No,0.0,123.92
+DRV-10221,Stanislav Lebedev,4.92,8 hours/day,46.0,629.46,Yes,10.0,639.46
+DRV-10222,Mikhail Volkov,4.71,10 hours/day,58.5,811.68,No,0.0,811.68
+DRV-10223,Priit Mets,4.97,4-6 hours/day,32.5,485.76,Yes,15.0,500.76
+DRV-10224,Alexandre Sokolov,4.94,8 hours/day,50.8,723.32,Yes,15.0,738.32
+DRV-10225,Stanislav Semenov,4.96,< 2 hours/day,8.3,110.7,No,0.0,110.7
+DRV-10226,Margus Kallas,4.97,4-6 hours/day,37.2,490.38,Yes,35.0,525.38
+DRV-10227,Aleksandr Novikov,4.96,< 2 hours/day,4.9,72.78,No,0.0,72.78
+DRV-10228,Mikhail Volkov,4.97,8 hours/day,47.5,588.4,No,0.0,588.4
+DRV-10229,Vladimir Petrov,4.89,4-6 hours/day,33.4,401.54,Yes,15.0,416.54
+DRV-10230,Margus Kuusk,4.88,2-4 hours/day,20.0,263.72,No,0.0,263.72
+DRV-10231,Mikhail Petrov,4.98,4-6 hours/day,32.3,483.52,Yes,15.0,498.52
+DRV-10232,Margus Lõhmus,4.99,2-4 hours/day,17.9,242.71,No,0.0,242.71
+DRV-10233,Kaspar Kuusk,4.9,4-6 hours/day,36.2,497.98,Yes,15.0,512.98
+DRV-10234,Priit Kukk,4.95,2-4 hours/day,15.7,188.62,No,0.0,188.62
+DRV-10235,Jānis Mets,4.85,4-6 hours/day,30.4,421.42,No,0.0,421.42
+DRV-10236,Andrei Morozov,4.97,4-6 hours/day,35.9,439.8,No,0.0,439.8
+DRV-10237,Andrus Kukk,4.99,2-4 hours/day,20.3,289.26,No,0.0,289.26
+DRV-10238,Martin Mägi,4.84,4-6 hours/day,31.2,402.02,Yes,35.0,437.02
+DRV-10239,Toomas Kuusk,4.98,4-6 hours/day,37.1,456.36,Yes,25.0,481.36
+DRV-10240,Kevad Kask,4.95,8 hours/day,50.5,611.39,No,0.0,611.39
+DRV-10241,Artur Petrov,4.98,4-6 hours/day,35.3,476.83,Yes,15.0,491.83
+DRV-10242,Alexandre Volkov,4.89,2-4 hours/day,19.7,261.8,No,0.0,261.8
+DRV-10243,Denis Egorov,4.95,2-4 hours/day,21.5,272.55,No,0.0,272.55
+DRV-10244,Jānis Oja,4.81,2-4 hours/day,14.7,202.01,Yes,10.0,212.01
+DRV-10245,Kristjan Kukk,4.96,4-6 hours/day,32.1,388.65,Yes,15.0,403.65
+DRV-10246,Mikk Lõhmus,5.0,< 2 hours/day,11.3,148.65,No,0.0,148.65
+DRV-10247,Sergei Kuznetsov,4.8,8 hours/day,44.7,543.34,Yes,15.0,558.34
+DRV-10248,Sander Oja,4.95,2-4 hours/day,14.2,171.53,No,0.0,171.53
+DRV-10249,Hendrik Raudsepp,4.96,4-6 hours/day,31.4,463.0,Yes,15.0,478.0
+DRV-10250,Oliver Rebane,4.98,4-6 hours/day,31.7,381.51,No,0.0,381.51
+DRV-10251,Omar Zhang,4.96,4-6 hours/day,31.0,415.15,Yes,15.0,430.15
+DRV-10252,Siim Kuusk,4.91,2-4 hours/day,18.9,237.14,No,0.0,237.14
+DRV-10253,Andrei Smirnov,4.97,2-4 hours/day,24.5,347.76,No,0.0,347.76
+DRV-10254,Sergei Lebedev,4.91,4-6 hours/day,36.9,543.42,Yes,25.0,568.42
+DRV-10255,Toomas Lõhmus,4.97,4-6 hours/day,29.2,391.02,Yes,15.0,406.02
+DRV-10256,Pavel Kuznetsov,4.93,< 2 hours/day,5.9,77.87,No,0.0,77.87
+DRV-10257,Aleksandr Novikov,4.83,10 hours/day,60.7,813.09,No,0.0,813.09
+DRV-10258,Lukas Nõmm,4.98,8 hours/day,53.5,705.0,No,0.0,705.0
+DRV-10259,Kalle Mets,4.92,4-6 hours/day,37.0,537.59,Yes,25.0,562.59
+DRV-10260,Lukas Raudsepp,5.0,10 hours/day,56.9,843.47,No,0.0,843.47
+DRV-10261,Jānis Kask,4.93,4-6 hours/day,28.0,402.93,Yes,35.0,437.93
+DRV-10262,Dmitri Ivanov,4.86,8 hours/day,53.3,743.64,No,0.0,743.64
+DRV-10263,Maxim Popov,4.94,2-4 hours/day,23.2,291.87,Yes,10.0,301.87
+DRV-10264,Denis Fedorov,4.97,4-6 hours/day,36.0,537.73,Yes,15.0,552.73
+DRV-10265,Pavel Alekseev,4.95,4-6 hours/day,29.7,412.05,Yes,25.0,437.05
+DRV-10266,Vitali Alekseev,4.99,< 2 hours/day,7.7,113.53,No,0.0,113.53
+DRV-10267,Martin Mägi,5.0,4-6 hours/day,37.8,495.42,No,0.0,495.42
+DRV-10268,Jānis Laur,4.8,2-4 hours/day,21.8,308.64,No,0.0,308.64
+DRV-10269,Vitali Petrov,4.97,4-6 hours/day,35.1,500.18,Yes,15.0,515.18
+DRV-10270,Kaspar Raudsepp,4.95,4-6 hours/day,31.7,458.79,No,0.0,458.79
+DRV-10271,Denis Petrov,4.92,2-4 hours/day,14.7,215.99,No,0.0,215.99
+DRV-10272,Lukas Mets,4.97,8 hours/day,48.6,666.39,No,0.0,666.39
+DRV-10273,Rasmus Kallas,4.97,8 hours/day,50.1,700.75,No,0.0,700.75
+DRV-10274,Siim Pärn,4.97,10 hours/day,65.0,864.78,No,0.0,864.78
+DRV-10275,Andrus Laur,4.92,4-6 hours/day,35.3,486.18,Yes,15.0,501.18
+DRV-10276,Priit Kask,4.82,2-4 hours/day,24.5,321.63,No,0.0,321.63
+DRV-10277,Kevad Ilves,4.95,< 2 hours/day,2.7,39.99,No,0.0,39.99
+DRV-10278,Andrus Kask,4.99,2-4 hours/day,17.9,229.49,No,0.0,229.49
+DRV-10279,Anton Vasiliev,4.96,4-6 hours/day,28.5,388.43,No,0.0,388.43
+DRV-10280,Oliver Lepp,4.99,2-4 hours/day,23.3,319.24,No,0.0,319.24
+DRV-10281,Nikolai Fedorov,4.96,2-4 hours/day,20.3,301.24,No,0.0,301.24
+DRV-10282,Siim Kallas,4.99,8 hours/day,52.7,748.83,Yes,15.0,763.83
+DRV-10283,Hendrik Rebane,4.99,4-6 hours/day,38.6,517.17,Yes,25.0,542.17
+DRV-10284,Jānis Koppel,4.97,2-4 hours/day,22.8,312.94,Yes,15.0,327.94
+DRV-10285,Stanislav Novikov,4.83,10 hours/day,57.1,696.16,No,0.0,696.16
+DRV-10286,Aleksandr Popov,4.83,4-6 hours/day,32.5,425.4,No,0.0,425.4
+DRV-10287,Sergei Ivanov,4.96,10 hours/day,64.6,920.92,No,0.0,920.92
+DRV-10288,Taavi Oja,4.88,4-6 hours/day,29.4,414.43,Yes,15.0,429.43
+DRV-10289,Jānis Lepp,4.98,4-6 hours/day,33.0,494.17,No,0.0,494.17
+DRV-10290,Jānis Lepp,4.93,8 hours/day,51.7,735.61,Yes,15.0,750.61
+DRV-10291,Jānis Nõmm,4.99,2-4 hours/day,20.1,276.1,No,0.0,276.1
+DRV-10292,Siim Vaher,4.99,2-4 hours/day,22.7,291.54,Yes,15.0,306.54
+DRV-10293,Mikk Kukk,4.9,< 2 hours/day,9.7,121.27,No,0.0,121.27
+DRV-10294,Jevgeni Vasiliev,4.86,4-6 hours/day,34.3,442.82,No,0.0,442.82
+DRV-10295,Mikhail Volkov,4.99,2-4 hours/day,22.0,304.31,Yes,15.0,319.31
+DRV-10296,Siim Vaher,4.91,2-4 hours/day,14.2,189.22,No,0.0,189.22
+DRV-10297,Siim Pärn,4.96,< 2 hours/day,2.7,36.58,No,0.0,36.58
+DRV-10298,Marko Kukk,5.0,4-6 hours/day,35.8,508.02,Yes,25.0,533.02
+DRV-10299,Denis Alekseev,4.98,< 2 hours/day,7.4,93.96,No,0.0,93.96
+DRV-10300,Mateusz Zhang,4.87,4-6 hours/day,32.8,481.15,No,0.0,481.15
+DRV-10301,Rasmus Pärn,4.93,4-6 hours/day,28.8,426.29,Yes,15.0,441.29
+DRV-10302,Kalle Mets,4.96,8 hours/day,44.9,637.89,No,0.0,637.89
+DRV-10303,Stanislav Fedorov,4.94,4-6 hours/day,29.5,439.08,No,0.0,439.08
+DRV-10304,Margus Mets,4.88,8 hours/day,51.2,690.44,Yes,15.0,705.44
+DRV-10305,Andrei Ivanov,4.98,< 2 hours/day,10.0,147.46,No,0.0,147.46
+DRV-10306,Jānis Tamm,4.82,10 hours/day,61.2,837.44,No,0.0,837.44
+DRV-10307,Martin Sepp,4.97,8 hours/day,45.3,549.94,No,0.0,549.94
+DRV-10308,Toomas Oja,4.98,< 2 hours/day,6.6,81.54,No,0.0,81.54
+DRV-10309,Alexandre Semenov,4.95,8 hours/day,51.5,730.93,Yes,10.0,740.93
+DRV-10310,Andrus Koppel,4.85,4-6 hours/day,30.3,387.87,Yes,15.0,402.87
+DRV-10311,Andrus Laur,4.89,8 hours/day,50.2,694.95,No,0.0,694.95
+DRV-10312,Martin Kuusk,4.93,< 2 hours/day,7.9,111.83,No,0.0,111.83
+DRV-10313,Denis Ivanov,4.94,4-6 hours/day,32.0,440.34,Yes,25.0,465.34
+DRV-10314,Mikk Koppel,4.83,4-6 hours/day,31.1,464.98,Yes,35.0,499.98
+DRV-10315,Dmitri Kuznetsov,4.98,2-4 hours/day,24.2,335.09,Yes,10.0,345.09
+DRV-10316,Dmitri Smirnov,4.97,< 2 hours/day,9.6,131.75,No,0.0,131.75
+DRV-10317,Sander Raudsepp,4.93,4-6 hours/day,39.4,541.7,No,0.0,541.7
+DRV-10318,Hendrik Sepp,4.83,4-6 hours/day,31.4,398.82,Yes,25.0,423.82
+DRV-10319,Kaspar Lõhmus,4.93,2-4 hours/day,16.0,231.66,Yes,10.0,241.66
+DRV-10320,Hendrik Rebane,4.9,10 hours/day,57.2,749.0,No,0.0,749.0
+DRV-10321,Dmitri Volkov,4.83,8 hours/day,48.7,594.03,No,0.0,594.03
+DRV-10322,Toomas Laur,4.98,< 2 hours/day,10.5,138.47,No,0.0,138.47
+DRV-10323,Anton Kuznetsov,5.0,8 hours/day,47.1,703.53,Yes,15.0,718.53
+DRV-10324,Hendrik Mägi,4.97,10 hours/day,63.4,938.55,No,0.0,938.55
+DRV-10325,Marko Lepp,4.86,2-4 hours/day,20.8,258.04,Yes,10.0,268.04
+DRV-10326,Kevad Mägi,4.98,< 2 hours/day,5.8,69.73,No,0.0,69.73
+DRV-10327,Igor Novikov,4.97,< 2 hours/day,3.2,42.48,No,0.0,42.48
+DRV-10328,Mikhail Sokolov,4.98,4-6 hours/day,29.9,434.31,Yes,15.0,449.31
+DRV-10329,Roman Vasiliev,4.78,4-6 hours/day,30.6,381.08,Yes,35.0,416.08
+DRV-10330,Toomas Lepp,4.79,10 hours/day,68.2,952.02,No,0.0,952.02
+DRV-10331,Priit Kallas,4.93,4-6 hours/day,34.7,499.71,Yes,15.0,514.71
+DRV-10332,Martin Pärn,4.88,4-6 hours/day,34.5,460.61,Yes,15.0,475.61
+DRV-10333,Martin Rebane,5.0,4-6 hours/day,37.9,560.78,Yes,15.0,575.78
+DRV-10334,Roman Ivanov,4.92,4-6 hours/day,38.6,516.21,Yes,25.0,541.21
+DRV-10335,Lukas Lõhmus,4.96,4-6 hours/day,32.5,462.69,No,0.0,462.69
+DRV-10336,Kalle Lõhmus,4.95,4-6 hours/day,29.9,393.61,No,0.0,393.61
+DRV-10337,Priit Ilves,4.71,10 hours/day,61.7,814.58,No,0.0,814.58
+DRV-10338,Taavi Kask,4.81,4-6 hours/day,38.6,502.17,No,0.0,502.17
+DRV-10339,Artur Sokolov,4.99,2-4 hours/day,14.4,196.65,Yes,10.0,206.65
+DRV-10340,Sander Vaher,4.99,10 hours/day,68.7,907.27,Yes,10.0,917.27
+DRV-10341,Mikhail Morozov,4.99,< 2 hours/day,11.2,139.46,No,0.0,139.46
+DRV-10342,Rasmus Kask,4.93,4-6 hours/day,35.6,503.63,Yes,15.0,518.63
+DRV-10343,Vladimir Fedorov,4.93,4-6 hours/day,30.0,403.34,Yes,15.0,418.34
+DRV-10344,Margus Kallas,4.96,4-6 hours/day,32.9,447.05,No,0.0,447.05
+DRV-10345,Mikk Saar,4.94,4-6 hours/day,28.5,420.47,Yes,15.0,435.47
+DRV-10346,Kristjan Kallas,4.86,8 hours/day,44.0,628.33,No,0.0,628.33
+DRV-10347,Jevgeni Lebedev,4.91,4-6 hours/day,34.4,456.3,Yes,25.0,481.3
+DRV-10348,Mikhail Smirnov,4.99,2-4 hours/day,24.2,301.67,No,0.0,301.67
+DRV-10349,Oliver Mägi,4.97,8 hours/day,49.0,730.22,No,0.0,730.22
+DRV-10350,Marko Tamm,5.0,< 2 hours/day,5.1,74.74,No,0.0,74.74
+DRV-10351,Aleksandr Novikov,4.85,8 hours/day,50.5,611.11,No,0.0,611.11
+DRV-10352,Igor Novikov,4.82,2-4 hours/day,18.2,271.87,No,0.0,271.87
+DRV-10353,Aleksandr Vasiliev,4.94,2-4 hours/day,24.3,327.82,No,0.0,327.82
+DRV-10354,Kristjan Kallas,4.95,4-6 hours/day,34.7,442.44,Yes,35.0,477.44
+DRV-10355,Sergei Petrov,4.75,2-4 hours/day,18.7,236.51,No,0.0,236.51
+DRV-10356,Marko Lepp,4.98,2-4 hours/day,16.3,232.82,Yes,10.0,242.82
+DRV-10357,Martin Kallas,4.93,10 hours/day,62.7,856.6,No,0.0,856.6
+DRV-10358,Taavi Oja,4.96,4-6 hours/day,37.3,521.95,No,0.0,521.95
+DRV-10359,Anton Smirnov,4.95,2-4 hours/day,15.9,214.69,No,0.0,214.69
+DRV-10360,Omar Liu,4.95,4-6 hours/day,37.0,547.21,Yes,35.0,582.21
+DRV-10361,Kevad Lepp,4.94,2-4 hours/day,24.4,338.09,No,0.0,338.09
+DRV-10362,Sander Vaher,5.0,10 hours/day,59.6,778.44,Yes,10.0,788.44
+DRV-10363,Vladimir Semenov,4.94,8 hours/day,42.6,523.98,No,0.0,523.98
+DRV-10364,Nikolai Ivanov,4.97,4-6 hours/day,34.5,447.83,Yes,25.0,472.83
+DRV-10365,Andrei Vasiliev,4.98,2-4 hours/day,17.1,251.94,Yes,15.0,266.94
+DRV-10366,Denis Petrov,4.92,4-6 hours/day,39.3,496.19,Yes,35.0,531.19
+DRV-10367,Andrus Kuusk,4.8,4-6 hours/day,37.8,499.56,Yes,15.0,514.56
+DRV-10368,Jevgeni Ivanov,4.96,2-4 hours/day,14.3,201.45,No,0.0,201.45
+DRV-10369,Kalle Mägi,4.89,< 2 hours/day,11.8,153.78,No,0.0,153.78
+DRV-10370,Taavi Kask,4.82,4-6 hours/day,31.3,454.94,Yes,25.0,479.94
+DRV-10371,Vitali Ivanov,4.83,2-4 hours/day,17.3,244.82,No,0.0,244.82
+DRV-10372,Vladimir Semenov,4.89,10 hours/day,61.2,792.92,No,0.0,792.92
+DRV-10373,Marko Kukk,4.88,4-6 hours/day,29.5,366.94,Yes,35.0,401.94
+DRV-10374,Denis Novikov,4.95,10 hours/day,68.8,992.94,No,0.0,992.94
+DRV-10375,Mikhail Ivanov,5.0,8 hours/day,49.1,638.42,No,0.0,638.42
+DRV-10376,Nikolai Semenov,4.99,< 2 hours/day,6.6,92.11,No,0.0,92.11
+DRV-10377,Artur Alekseev,4.88,4-6 hours/day,29.7,427.52,Yes,35.0,462.52
+DRV-10378,Lukas Lepp,4.99,4-6 hours/day,32.8,464.58,Yes,15.0,479.58
+DRV-10379,Mikk Raudsepp,4.72,8 hours/day,46.7,596.38,No,0.0,596.38
+DRV-10380,Mikk Sepp,4.88,2-4 hours/day,14.9,210.6,No,0.0,210.6
+DRV-10381,Omar Liu,4.99,10 hours/day,67.0,818.9,No,0.0,818.9
+DRV-10382,Stanislav Morozov,4.98,8 hours/day,45.8,656.87,No,0.0,656.87
+DRV-10383,Kalle Mets,4.97,< 2 hours/day,8.8,121.89,No,0.0,121.89
+DRV-10384,Andrus Rebane,4.9,4-6 hours/day,31.7,469.62,Yes,15.0,484.62
+DRV-10385,Priit Lepp,4.97,10 hours/day,59.8,891.07,No,0.0,891.07
+DRV-10386,Artur Vasiliev,4.97,10 hours/day,69.6,966.13,No,0.0,966.13
+DRV-10387,Kalle Mägi,4.96,8 hours/day,52.3,677.68,No,0.0,677.68
+DRV-10388,Andrei Egorov,4.96,< 2 hours/day,9.9,137.57,No,0.0,137.57
+DRV-10389,Kristjan Tamm,4.94,10 hours/day,65.0,909.78,No,0.0,909.78
+DRV-10390,Marko Rebane,5.0,10 hours/day,63.4,876.93,No,0.0,876.93
+DRV-10391,Aleksandr Vasiliev,4.96,10 hours/day,58.4,712.17,Yes,10.0,722.17
+DRV-10392,Sergei Vasiliev,4.96,8 hours/day,45.7,664.08,No,0.0,664.08
+DRV-10393,Kevad Oja,4.9,2-4 hours/day,15.3,189.73,No,0.0,189.73
+DRV-10394,Hendrik Saar,4.97,8 hours/day,49.5,723.12,No,0.0,723.12
+DRV-10395,Artur Volkov,4.99,10 hours/day,62.2,810.06,No,0.0,810.06
+DRV-10396,Karl Oja,4.99,10 hours/day,62.1,836.31,No,0.0,836.31
+DRV-10397,Sander Oja,4.99,< 2 hours/day,8.5,107.51,No,0.0,107.51
+DRV-10398,Hendrik Kallas,4.96,4-6 hours/day,36.0,524.38,Yes,25.0,549.38
+DRV-10399,Jevgeni Alekseev,4.99,8 hours/day,52.0,730.8,Yes,15.0,745.8
+DRV-10400,Martin Lõhmus,4.85,< 2 hours/day,3.4,43.87,No,0.0,43.87
+DRV-10401,Jānis Saar,4.99,2-4 hours/day,23.4,349.87,No,0.0,349.87
+DRV-10402,Jānis Kuusk,4.75,4-6 hours/day,28.4,372.44,Yes,15.0,387.44
+DRV-10403,Marko Saar,4.94,4-6 hours/day,39.3,542.63,Yes,15.0,557.63
+DRV-10404,Maxim Vasiliev,4.95,8 hours/day,43.4,609.75,No,0.0,609.75
+DRV-10405,Marko Nõmm,4.96,2-4 hours/day,24.2,354.48,No,0.0,354.48
+DRV-10406,Priit Vaher,4.93,4-6 hours/day,30.8,370.61,Yes,15.0,385.61
+DRV-10407,Karl Oja,4.94,10 hours/day,57.4,816.08,No,0.0,816.08
+DRV-10408,Kevad Mägi,4.98,4-6 hours/day,35.8,467.62,No,0.0,467.62
+DRV-10409,Lukas Kukk,4.92,8 hours/day,50.6,704.45,No,0.0,704.45
+DRV-10410,Kristjan Nõmm,4.88,< 2 hours/day,7.4,97.33,No,0.0,97.33
+DRV-10411,Oliver Nõmm,4.96,4-6 hours/day,28.0,394.36,Yes,25.0,419.36
+DRV-10412,Martin Lepp,5.0,2-4 hours/day,19.0,269.56,No,0.0,269.56
+DRV-10413,Andrus Ilves,4.98,2-4 hours/day,16.5,213.04,Yes,10.0,223.04
+DRV-10414,Mikk Mets,4.92,4-6 hours/day,28.5,349.88,No,0.0,349.88
+DRV-10415,Priit Raudsepp,4.98,4-6 hours/day,33.3,427.19,No,0.0,427.19
+DRV-10416,Kaspar Ilves,4.92,8 hours/day,52.9,710.29,No,0.0,710.29
+DRV-10417,Jānis Kask,4.88,< 2 hours/day,6.9,95.99,No,0.0,95.99
+DRV-10418,Vitali Popov,4.96,4-6 hours/day,39.3,576.42,No,0.0,576.42
+DRV-10419,Lukas Rebane,4.95,2-4 hours/day,15.2,186.8,Yes,15.0,201.8
+DRV-10420,Vitali Fedorov,4.89,< 2 hours/day,3.7,52.1,No,0.0,52.1
+DRV-10421,Margus Kallas,4.94,2-4 hours/day,19.6,286.93,Yes,10.0,296.93
+DRV-10422,Lei Ahmed,4.75,8 hours/day,52.0,696.25,No,0.0,696.25
+DRV-10423,Lukas Rebane,4.98,2-4 hours/day,17.3,246.16,Yes,10.0,256.16
+DRV-10424,Jānis Kask,4.99,4-6 hours/day,32.4,402.67,No,0.0,402.67
+DRV-10425,Nikolai Novikov,4.92,4-6 hours/day,33.1,439.04,Yes,15.0,454.04
+DRV-10426,Sander Kallas,4.89,2-4 hours/day,20.1,279.44,Yes,15.0,294.44
+DRV-10427,Rasmus Raudsepp,4.96,< 2 hours/day,9.1,132.78,No,0.0,132.78
+DRV-10428,Hendrik Oja,4.93,4-6 hours/day,31.0,448.89,Yes,25.0,473.89
+DRV-10429,Margus Kallas,4.8,10 hours/day,63.5,876.92,No,0.0,876.92
+DRV-10430,Alexandre Novikov,4.95,2-4 hours/day,21.9,304.69,No,0.0,304.69
+DRV-10431,Rasmus Kask,4.97,8 hours/day,44.4,565.65,No,0.0,565.65
+DRV-10432,Margus Koppel,4.96,2-4 hours/day,17.3,258.72,No,0.0,258.72
+DRV-10433,Maxim Lebedev,4.87,2-4 hours/day,18.6,257.02,No,0.0,257.02
+DRV-10434,Martin Koppel,4.91,8 hours/day,46.1,639.69,No,0.0,639.69
+DRV-10435,Kristjan Ilves,4.98,2-4 hours/day,16.5,225.09,No,0.0,225.09
+DRV-10436,Margus Laur,4.92,4-6 hours/day,30.4,455.93,Yes,15.0,470.93
+DRV-10437,Dmitri Semenov,4.84,4-6 hours/day,29.9,380.95,Yes,15.0,395.95
+DRV-10438,Mohamed Wang,4.93,4-6 hours/day,31.4,461.35,Yes,15.0,476.35
+DRV-10439,Kalle Laur,4.99,< 2 hours/day,7.5,100.83,No,0.0,100.83
+DRV-10440,Jānis Tamm,4.8,2-4 hours/day,20.7,263.53,No,0.0,263.53
+DRV-10441,Karl Nõmm,4.89,8 hours/day,44.1,542.82,Yes,15.0,557.82
+DRV-10442,Kaspar Rebane,4.99,10 hours/day,56.2,830.96,No,0.0,830.96
+DRV-10443,Margus Mägi,4.93,4-6 hours/day,29.2,360.27,Yes,15.0,375.27
+DRV-10444,Lukas Ilves,4.94,< 2 hours/day,9.6,119.78,No,0.0,119.78
+DRV-10445,Artur Novikov,4.99,< 2 hours/day,11.5,144.51,No,0.0,144.51
+DRV-10446,Margus Kukk,4.95,< 2 hours/day,4.3,61.68,No,0.0,61.68
+DRV-10447,Priit Raudsepp,4.97,10 hours/day,62.9,772.97,No,0.0,772.97
+DRV-10448,Lukas Lõhmus,4.98,4-6 hours/day,34.8,506.67,Yes,15.0,521.67
+DRV-10449,Siim Nõmm,4.9,4-6 hours/day,31.2,462.93,No,0.0,462.93
+DRV-10450,Aleksandr Lebedev,4.99,2-4 hours/day,21.2,256.47,No,0.0,256.47
+DRV-10451,Rasmus Kallas,4.84,4-6 hours/day,30.3,402.69,No,0.0,402.69
+DRV-10452,Andrus Kallas,4.96,2-4 hours/day,19.5,267.61,No,0.0,267.61
+DRV-10453,Aleksandr Popov,4.95,4-6 hours/day,34.0,451.83,No,0.0,451.83
+DRV-10454,Pavel Alekseev,5.0,8 hours/day,50.6,708.67,No,0.0,708.67
+DRV-10455,Kevad Mägi,4.84,8 hours/day,49.5,681.67,No,0.0,681.67
+DRV-10456,Kristjan Sepp,4.96,2-4 hours/day,24.0,325.59,Yes,10.0,335.59
+DRV-10457,Oliver Kukk,4.62,< 2 hours/day,8.8,109.86,No,0.0,109.86
+DRV-10458,Jevgeni Semenov,4.94,< 2 hours/day,10.4,147.74,No,0.0,147.74
+DRV-10459,Jānis Kallas,4.9,4-6 hours/day,39.0,535.0,Yes,15.0,550.0
+DRV-10460,Margus Mägi,4.93,10 hours/day,65.6,790.85,No,0.0,790.85
+DRV-10461,Nikolai Sokolov,4.91,8 hours/day,50.2,617.54,Yes,15.0,632.54
+DRV-10462,Pavel Popov,4.76,< 2 hours/day,6.8,89.79,No,0.0,89.79
+DRV-10463,Taavi Tamm,4.91,4-6 hours/day,31.0,437.05,Yes,15.0,452.05
+DRV-10464,Stanislav Popov,4.96,< 2 hours/day,3.5,52.38,No,0.0,52.38
+DRV-10465,Rasmus Laur,4.93,2-4 hours/day,19.1,232.76,Yes,15.0,247.76
+DRV-10466,Martin Kuusk,4.79,< 2 hours/day,6.4,78.34,No,0.0,78.34
+DRV-10467,Pavel Petrov,4.89,4-6 hours/day,31.3,418.69,No,0.0,418.69
+DRV-10468,Pavel Novikov,4.97,10 hours/day,58.9,853.38,No,0.0,853.38
+DRV-10469,Singh Ahmed,4.97,< 2 hours/day,10.6,135.75,No,0.0,135.75
+DRV-10470,Mohamed Novak,4.98,8 hours/day,43.3,567.34,No,0.0,567.34
+DRV-10471,Hendrik Rebane,4.88,4-6 hours/day,37.5,530.06,No,0.0,530.06
+DRV-10472,Taavi Kallas,4.7,2-4 hours/day,22.8,297.83,No,0.0,297.83
+DRV-10473,Artur Popov,4.91,4-6 hours/day,33.8,419.37,Yes,15.0,434.37
+DRV-10474,Oliver Kask,4.95,4-6 hours/day,32.0,393.86,Yes,35.0,428.86
+DRV-10475,Andrus Lõhmus,4.86,< 2 hours/day,2.4,33.49,No,0.0,33.49
+DRV-10476,Karl Mets,4.78,4-6 hours/day,28.5,386.5,Yes,25.0,411.5
+DRV-10477,Roman Vasiliev,4.87,10 hours/day,61.4,769.46,No,0.0,769.46
+DRV-10478,Kalle Ilves,4.88,2-4 hours/day,23.3,298.51,No,0.0,298.51
+DRV-10479,Rasmus Ilves,4.99,4-6 hours/day,30.2,374.08,Yes,25.0,399.08
+DRV-10480,Martin Vaher,4.93,2-4 hours/day,18.6,248.37,No,0.0,248.37
+DRV-10481,Kristjan Lõhmus,4.96,2-4 hours/day,23.5,323.43,No,0.0,323.43
+DRV-10482,Andrei Morozov,4.94,8 hours/day,43.3,529.05,No,0.0,529.05
+DRV-10483,Jānis Kukk,4.96,8 hours/day,42.0,572.77,No,0.0,572.77
+DRV-10484,Jevgeni Egorov,4.94,8 hours/day,48.8,721.27,No,0.0,721.27
+DRV-10485,Dmitri Semenov,4.75,8 hours/day,50.7,683.88,No,0.0,683.88
+DRV-10486,Kristjan Oja,4.97,< 2 hours/day,5.4,68.26,No,0.0,68.26
+DRV-10487,Taavi Vaher,4.96,10 hours/day,61.5,747.02,No,0.0,747.02
+DRV-10488,Artur Lebedev,4.91,4-6 hours/day,33.0,407.03,No,0.0,407.03
+DRV-10489,Margus Kask,4.97,4-6 hours/day,31.6,385.69,No,0.0,385.69
+DRV-10490,Andrus Raudsepp,4.89,< 2 hours/day,11.8,152.99,No,0.0,152.99
+DRV-10491,Kevad Sepp,4.99,4-6 hours/day,35.5,501.9,Yes,35.0,536.9
+DRV-10492,Toomas Raudsepp,4.96,< 2 hours/day,8.5,123.68,No,0.0,123.68
+DRV-10493,Margus Pärn,4.91,4-6 hours/day,39.3,563.28,No,0.0,563.28
+DRV-10494,Dmitri Egorov,4.95,10 hours/day,58.9,744.2,No,0.0,744.2
+DRV-10495,Alexandre Semenov,4.98,8 hours/day,42.5,612.78,No,0.0,612.78
+DRV-10496,Sergei Smirnov,4.95,< 2 hours/day,8.0,118.23,No,0.0,118.23
+DRV-10497,Oliver Nõmm,4.93,4-6 hours/day,34.5,427.25,No,0.0,427.25
+DRV-10498,Andrei Sokolov,4.99,8 hours/day,51.8,674.1,No,0.0,674.1
+DRV-10499,Maxim Fedorov,4.98,4-6 hours/day,38.1,490.13,Yes,35.0,525.13
+DRV-10500,Oliver Lepp,4.87,4-6 hours/day,32.5,472.24,Yes,25.0,497.24
+DRV-10501,Mikk Pärn,4.92,8 hours/day,47.3,658.18,Yes,10.0,668.18
+DRV-10502,Singh Ahmed,4.83,4-6 hours/day,34.6,495.86,Yes,15.0,510.86
+DRV-10503,Maxim Volkov,4.95,4-6 hours/day,29.1,410.0,Yes,25.0,435.0
+DRV-10504,Artur Alekseev,4.99,< 2 hours/day,11.6,143.57,No,0.0,143.57
+DRV-10505,Kaspar Pärn,4.99,8 hours/day,50.9,746.88,No,0.0,746.88
+DRV-10506,Jānis Rebane,4.74,< 2 hours/day,11.4,156.88,No,0.0,156.88
+DRV-10507,Karl Pärn,4.87,10 hours/day,63.3,826.95,No,0.0,826.95
+DRV-10508,Nikolai Volkov,4.97,10 hours/day,68.9,893.07,No,0.0,893.07
+DRV-10509,Kevad Lepp,4.92,4-6 hours/day,32.8,457.48,Yes,35.0,492.48
+DRV-10510,Rasmus Vaher,4.87,10 hours/day,57.1,792.57,No,0.0,792.57
+DRV-10511,Martin Sepp,4.99,4-6 hours/day,36.6,451.49,No,0.0,451.49
+DRV-10512,Rasmus Kask,4.97,10 hours/day,66.7,923.79,No,0.0,923.79
+DRV-10513,Mohamed Khan,4.95,8 hours/day,45.0,621.19,Yes,15.0,636.19
+DRV-10514,Priit Oja,4.88,2-4 hours/day,18.0,244.77,No,0.0,244.77
+DRV-10515,Martin Kallas,4.99,4-6 hours/day,34.1,451.7,No,0.0,451.7
+DRV-10516,Priit Tamm,4.94,8 hours/day,42.4,547.75,No,0.0,547.75
+DRV-10517,Siim Mägi,4.92,4-6 hours/day,28.2,370.23,Yes,25.0,395.23
+DRV-10518,Kalle Kukk,4.94,4-6 hours/day,30.9,379.9,Yes,15.0,394.9
+DRV-10519,Rasmus Pärn,4.94,8 hours/day,46.9,676.39,No,0.0,676.39
+DRV-10520,Jevgeni Alekseev,4.86,2-4 hours/day,18.6,249.81,No,0.0,249.81
+DRV-10521,Karl Pärn,4.59,4-6 hours/day,34.6,465.51,No,0.0,465.51
+DRV-10522,Martin Lepp,4.95,2-4 hours/day,24.0,337.4,No,0.0,337.4
+DRV-10523,Marko Ilves,4.92,2-4 hours/day,14.2,204.43,Yes,15.0,219.43
+DRV-10524,Oliver Koppel,4.89,2-4 hours/day,18.2,267.36,No,0.0,267.36
+DRV-10525,Omar Liu,4.97,4-6 hours/day,31.3,422.77,Yes,35.0,457.77
+DRV-10526,Jevgeni Novikov,4.97,8 hours/day,51.9,637.5,No,0.0,637.5
+DRV-10527,Vitali Semenov,5.0,4-6 hours/day,35.3,489.15,Yes,35.0,524.15
+DRV-10528,Nikolai Sokolov,4.95,2-4 hours/day,20.0,285.84,No,0.0,285.84
+DRV-10529,Margus Oja,4.93,4-6 hours/day,33.7,488.04,Yes,25.0,513.04
+DRV-10530,Siim Kask,4.99,< 2 hours/day,9.1,112.85,No,0.0,112.85
+DRV-10531,Hendrik Nõmm,4.93,8 hours/day,45.4,656.83,No,0.0,656.83
+DRV-10532,Sergei Lebedev,4.99,10 hours/day,66.7,942.77,No,0.0,942.77
+DRV-10533,Kristjan Pärn,4.97,4-6 hours/day,28.3,378.02,Yes,25.0,403.02
+DRV-10534,Ahmed Liu,4.97,10 hours/day,65.4,862.23,No,0.0,862.23
+DRV-10535,Kaspar Lõhmus,4.99,8 hours/day,50.3,671.93,No,0.0,671.93
+DRV-10536,Sander Vaher,4.97,4-6 hours/day,39.8,593.91,No,0.0,593.91
+DRV-10537,Kaspar Lepp,4.51,10 hours/day,65.2,949.35,Yes,10.0,959.35
+DRV-10538,Jevgeni Egorov,4.95,4-6 hours/day,37.0,452.99,Yes,35.0,487.99
+DRV-10539,Sander Lepp,4.98,< 2 hours/day,4.6,57.35,No,0.0,57.35
+DRV-10540,Lei Chen,4.94,8 hours/day,50.7,698.63,No,0.0,698.63
+DRV-10541,Lukas Kask,4.87,4-6 hours/day,35.2,490.22,Yes,15.0,505.22
+DRV-10542,Sander Mägi,4.91,4-6 hours/day,36.5,466.4,Yes,15.0,481.4
+DRV-10543,Karl Kukk,4.97,4-6 hours/day,36.9,547.46,Yes,25.0,572.46
+DRV-10544,Andrus Raudsepp,4.92,< 2 hours/day,9.7,131.1,No,0.0,131.1
+DRV-10545,Kaspar Nõmm,4.9,4-6 hours/day,34.4,504.55,No,0.0,504.55
+DRV-10546,Priit Ilves,4.92,4-6 hours/day,32.2,405.9,No,0.0,405.9
+DRV-10547,Jānis Tamm,4.88,4-6 hours/day,38.3,553.16,Yes,35.0,588.16
+DRV-10548,Kalle Kask,4.97,< 2 hours/day,4.3,53.89,No,0.0,53.89
+DRV-10549,Stanislav Smirnov,4.98,10 hours/day,61.5,896.49,No,0.0,896.49
+DRV-10550,Kaspar Mets,4.99,8 hours/day,50.0,628.46,No,0.0,628.46
+DRV-10551,Lukas Mets,4.76,8 hours/day,48.8,670.76,No,0.0,670.76
+DRV-10552,Margus Mägi,4.98,2-4 hours/day,15.7,233.61,No,0.0,233.61
+DRV-10553,Artur Egorov,4.94,4-6 hours/day,35.4,518.45,Yes,15.0,533.45
+DRV-10554,Andrus Kukk,4.84,8 hours/day,47.0,581.2,No,0.0,581.2
+DRV-10555,Kevad Kukk,4.78,4-6 hours/day,37.6,490.47,No,0.0,490.47
+DRV-10556,Jevgeni Alekseev,4.92,2-4 hours/day,14.9,193.27,No,0.0,193.27
+DRV-10557,Wei Chen,4.85,4-6 hours/day,30.8,406.08,No,0.0,406.08
+DRV-10558,Taavi Kuusk,4.92,4-6 hours/day,32.2,407.24,Yes,15.0,422.24
+DRV-10559,Margus Tamm,4.94,2-4 hours/day,16.5,236.0,No,0.0,236.0
+DRV-10560,Marko Rebane,5.0,< 2 hours/day,8.4,122.75,No,0.0,122.75
+DRV-10561,Andrei Semenov,4.99,8 hours/day,48.9,590.93,No,0.0,590.93
+DRV-10562,Rasmus Nõmm,4.89,4-6 hours/day,37.2,480.79,Yes,35.0,515.79
+DRV-10563,Jānis Lepp,4.83,4-6 hours/day,30.4,431.21,No,0.0,431.21
+DRV-10564,Kristjan Mägi,4.95,4-6 hours/day,29.9,445.02,Yes,35.0,480.02
+DRV-10565,Pavel Morozov,4.93,4-6 hours/day,39.9,593.18,Yes,25.0,618.18
+DRV-10566,Aleksandr Vasiliev,4.99,10 hours/day,58.7,727.55,No,0.0,727.55
+DRV-10567,Siim Kuusk,4.66,8 hours/day,51.0,761.32,No,0.0,761.32
+DRV-10568,Karl Mägi,4.98,2-4 hours/day,23.6,313.96,No,0.0,313.96
+DRV-10569,Lukas Koppel,4.99,8 hours/day,42.3,544.3,Yes,10.0,554.3
+DRV-10570,Andrei Morozov,4.94,8 hours/day,53.2,709.37,No,0.0,709.37
+DRV-10571,Mateusz Liu,4.8,2-4 hours/day,23.0,344.1,No,0.0,344.1
+DRV-10572,Hendrik Rebane,4.88,4-6 hours/day,29.2,350.55,Yes,35.0,385.55
+DRV-10573,Priit Vaher,4.87,2-4 hours/day,15.2,221.07,No,0.0,221.07
+DRV-10574,Mikhail Vasiliev,4.81,< 2 hours/day,7.8,101.45,No,0.0,101.45
+DRV-10575,Stanislav Morozov,4.88,4-6 hours/day,29.1,355.59,Yes,35.0,390.59
+DRV-10576,Igor Lebedev,4.96,4-6 hours/day,29.0,405.13,No,0.0,405.13
+DRV-10577,Anton Volkov,4.97,4-6 hours/day,32.7,479.92,No,0.0,479.92
+DRV-10578,Mikhail Ivanov,4.82,2-4 hours/day,21.1,268.15,Yes,15.0,283.15
+DRV-10579,Kristjan Saar,4.88,4-6 hours/day,37.6,477.96,No,0.0,477.96
+DRV-10580,Sergei Smirnov,4.94,8 hours/day,51.7,682.61,No,0.0,682.61
+DRV-10581,Hendrik Pärn,4.92,4-6 hours/day,37.6,475.64,No,0.0,475.64
+DRV-10582,Karl Mägi,4.97,4-6 hours/day,31.8,442.73,Yes,25.0,467.73
+DRV-10583,Igor Semenov,4.92,2-4 hours/day,14.6,210.96,Yes,10.0,220.96
+DRV-10584,Sander Tamm,4.9,2-4 hours/day,17.8,251.75,Yes,10.0,261.75
+DRV-10585,Dmitri Petrov,4.98,8 hours/day,52.9,729.16,Yes,10.0,739.16
+DRV-10586,Lukas Lepp,5.0,2-4 hours/day,23.3,305.8,No,0.0,305.8
+DRV-10587,Siim Kuusk,4.87,2-4 hours/day,22.9,309.41,No,0.0,309.41
+DRV-10588,Lukas Kask,4.88,8 hours/day,49.3,651.16,No,0.0,651.16
+DRV-10589,Sergei Novikov,4.88,2-4 hours/day,23.3,291.87,No,0.0,291.87
+DRV-10590,Kristjan Kallas,4.89,< 2 hours/day,11.9,167.96,No,0.0,167.96
+DRV-10591,Lei Liu,4.9,< 2 hours/day,2.5,31.86,No,0.0,31.86
+DRV-10592,Maxim Fedorov,4.97,4-6 hours/day,31.5,382.4,Yes,25.0,407.4
+DRV-10593,Sander Mets,4.92,8 hours/day,43.5,650.31,No,0.0,650.31
+DRV-10594,Martin Mets,4.94,4-6 hours/day,34.0,467.71,Yes,25.0,492.71
+DRV-10595,Mikk Saar,4.94,2-4 hours/day,16.3,210.74,No,0.0,210.74
+DRV-10596,Roman Alekseev,4.81,8 hours/day,44.7,653.09,No,0.0,653.09
+DRV-10597,Denis Lebedev,4.99,4-6 hours/day,36.8,452.39,Yes,15.0,467.39
+DRV-10598,Hendrik Saar,4.99,4-6 hours/day,37.1,504.78,Yes,25.0,529.78
+DRV-10599,Jevgeni Egorov,4.96,2-4 hours/day,24.0,346.75,No,0.0,346.75
+DRV-10600,Kristjan Mets,4.89,8 hours/day,51.4,705.22,No,0.0,705.22
+DRV-10601,Karl Vaher,4.93,4-6 hours/day,36.5,489.78,Yes,25.0,514.78
+DRV-10602,Karl Kuusk,4.99,4-6 hours/day,31.5,417.37,Yes,15.0,432.37
+DRV-10603,Vladimir Ivanov,4.86,4-6 hours/day,39.9,522.37,Yes,35.0,557.37
+DRV-10604,Mikk Pärn,4.74,< 2 hours/day,3.9,50.69,No,0.0,50.69
+DRV-10605,Martin Kallas,4.91,8 hours/day,48.2,707.57,No,0.0,707.57
+DRV-10606,Hendrik Oja,4.83,4-6 hours/day,36.6,480.62,No,0.0,480.62
+DRV-10607,Lukas Pärn,4.88,2-4 hours/day,25.0,372.32,No,0.0,372.32
+DRV-10608,Mikk Tamm,4.94,4-6 hours/day,29.2,432.76,Yes,25.0,457.76
+DRV-10609,Margus Rebane,4.8,8 hours/day,46.6,653.71,No,0.0,653.71
+DRV-10610,Kalle Raudsepp,4.83,2-4 hours/day,15.8,209.67,Yes,15.0,224.67
+DRV-10611,Rasmus Koppel,4.93,4-6 hours/day,38.2,563.56,No,0.0,563.56
+DRV-10612,Priit Laur,4.86,8 hours/day,51.3,689.5,No,0.0,689.5
+DRV-10613,Mikk Lõhmus,4.98,2-4 hours/day,21.2,308.48,No,0.0,308.48
+DRV-10614,Maxim Novikov,4.91,10 hours/day,66.7,852.7,No,0.0,852.7
+DRV-10615,Lukas Kuusk,5.0,8 hours/day,44.1,583.23,No,0.0,583.23
+DRV-10616,Marko Kallas,4.96,2-4 hours/day,18.8,228.96,No,0.0,228.96
+DRV-10617,Anton Semenov,4.92,4-6 hours/day,32.1,448.77,No,0.0,448.77
+DRV-10618,Taavi Sepp,4.95,8 hours/day,53.7,645.85,No,0.0,645.85
+DRV-10619,Andrus Ilves,4.87,4-6 hours/day,37.5,544.63,Yes,15.0,559.63
+DRV-10620,Vladimir Petrov,4.82,< 2 hours/day,3.5,47.64,No,0.0,47.64
+DRV-10621,Anton Petrov,4.91,< 2 hours/day,7.6,95.98,No,0.0,95.98
+DRV-10622,Ahmed Liu,4.98,4-6 hours/day,28.2,418.72,Yes,35.0,453.72
+DRV-10623,Toomas Kuusk,4.74,4-6 hours/day,32.3,425.82,Yes,15.0,440.82
+DRV-10624,Kristjan Raudsepp,4.93,4-6 hours/day,35.6,519.01,Yes,35.0,554.01
+DRV-10625,Pavel Sokolov,4.88,4-6 hours/day,36.7,532.8,Yes,25.0,557.8
+DRV-10626,Dmitri Vasiliev,4.88,2-4 hours/day,24.2,321.78,No,0.0,321.78
+DRV-10627,Alexandre Egorov,4.97,4-6 hours/day,35.8,435.89,No,0.0,435.89
+DRV-10628,Omar Zhang,4.95,< 2 hours/day,5.6,74.39,No,0.0,74.39
+DRV-10629,Martin Lõhmus,4.87,< 2 hours/day,4.3,52.04,No,0.0,52.04
+DRV-10630,Sander Kallas,5.0,10 hours/day,64.0,898.74,Yes,10.0,908.74
+DRV-10631,Hendrik Kallas,4.93,8 hours/day,46.9,593.14,Yes,10.0,603.14
+DRV-10632,Lukas Saar,4.83,2-4 hours/day,20.9,297.47,No,0.0,297.47
+DRV-10633,Taavi Kask,4.76,4-6 hours/day,29.7,418.18,Yes,35.0,453.18
+DRV-10634,Dmitri Popov,4.96,2-4 hours/day,17.5,215.03,Yes,15.0,230.03
+DRV-10635,Oliver Lõhmus,4.94,8 hours/day,48.4,643.98,Yes,15.0,658.98
+DRV-10636,Pavel Smirnov,4.94,< 2 hours/day,3.5,52.25,No,0.0,52.25
+DRV-10637,Jānis Mets,4.96,4-6 hours/day,35.6,523.77,Yes,35.0,558.77
+DRV-10638,Anton Ivanov,4.79,10 hours/day,69.5,876.24,Yes,10.0,886.24
+DRV-10639,Toomas Vaher,4.99,< 2 hours/day,9.8,122.22,No,0.0,122.22
+DRV-10640,Taavi Lepp,4.91,2-4 hours/day,18.0,242.44,No,0.0,242.44
+DRV-10641,Anton Egorov,4.98,4-6 hours/day,28.4,394.36,Yes,15.0,409.36
+DRV-10642,Igor Smirnov,4.97,4-6 hours/day,30.9,386.65,Yes,25.0,411.65
+DRV-10643,Toomas Vaher,4.93,4-6 hours/day,33.7,439.43,Yes,25.0,464.43
+DRV-10644,Kalle Kallas,4.96,4-6 hours/day,33.6,466.42,Yes,15.0,481.42
+DRV-10645,Mikk Sepp,4.94,2-4 hours/day,14.3,181.47,No,0.0,181.47
+DRV-10646,Aleksandr Alekseev,4.98,4-6 hours/day,35.0,445.31,No,0.0,445.31
+DRV-10647,Andrei Ivanov,4.9,4-6 hours/day,33.1,397.6,Yes,15.0,412.6
+DRV-10648,Marko Vaher,4.91,4-6 hours/day,38.1,495.16,No,0.0,495.16
+DRV-10649,Andrei Smirnov,4.94,4-6 hours/day,35.6,513.51,No,0.0,513.51
+DRV-10650,Oliver Nõmm,4.99,2-4 hours/day,14.4,191.85,No,0.0,191.85
+DRV-10651,Oliver Ilves,4.75,< 2 hours/day,10.9,137.91,No,0.0,137.91
+DRV-10652,Lukas Nõmm,4.92,10 hours/day,65.0,837.8,Yes,10.0,847.8
+DRV-10653,Kalle Lepp,4.98,10 hours/day,61.8,876.22,No,0.0,876.22
+DRV-10654,Kristjan Lõhmus,5.0,< 2 hours/day,8.1,103.63,No,0.0,103.63
+DRV-10655,Oliver Raudsepp,4.97,2-4 hours/day,16.4,231.53,No,0.0,231.53
+DRV-10656,Mikk Lepp,4.98,4-6 hours/day,32.1,440.22,No,0.0,440.22
+DRV-10657,Lukas Ilves,4.8,4-6 hours/day,37.2,471.54,Yes,25.0,496.54
+DRV-10658,Jevgeni Petrov,4.98,2-4 hours/day,17.7,220.86,No,0.0,220.86
+DRV-10659,Sergei Petrov,5.0,2-4 hours/day,18.6,244.65,No,0.0,244.65
+DRV-10660,Sander Lepp,4.94,4-6 hours/day,39.6,507.13,Yes,35.0,542.13
+DRV-10661,Stanislav Novikov,4.94,4-6 hours/day,33.6,478.86,Yes,15.0,493.86
+DRV-10662,Siim Laur,4.86,2-4 hours/day,18.7,227.4,No,0.0,227.4
+DRV-10663,Pavel Semenov,4.85,4-6 hours/day,37.3,448.88,Yes,25.0,473.88
+DRV-10664,Rasmus Sepp,4.83,< 2 hours/day,4.3,52.1,No,0.0,52.1
+DRV-10665,Anton Ivanov,4.93,8 hours/day,47.2,630.44,No,0.0,630.44
+DRV-10666,Kalle Vaher,4.78,4-6 hours/day,28.1,346.27,Yes,25.0,371.27
+DRV-10667,Oliver Oja,4.96,4-6 hours/day,36.6,535.96,Yes,35.0,570.96
+DRV-10668,Marko Mägi,4.66,2-4 hours/day,15.1,202.78,No,0.0,202.78
+DRV-10669,Margus Lõhmus,4.96,8 hours/day,53.1,664.14,No,0.0,664.14
+DRV-10670,Margus Oja,4.9,< 2 hours/day,11.7,149.96,No,0.0,149.96
+DRV-10671,Toomas Kuusk,4.95,4-6 hours/day,37.4,484.34,Yes,35.0,519.34
+DRV-10672,Roman Vasiliev,4.98,8 hours/day,43.3,574.35,No,0.0,574.35
+DRV-10673,Jānis Kuusk,4.92,< 2 hours/day,9.8,117.91,No,0.0,117.91
+DRV-10674,Jānis Kuusk,4.76,2-4 hours/day,20.8,253.3,No,0.0,253.3
+DRV-10675,Andrus Kukk,4.88,2-4 hours/day,15.1,222.76,No,0.0,222.76
+DRV-10676,Andrus Mets,4.97,4-6 hours/day,29.3,382.28,No,0.0,382.28
+DRV-10677,Martin Rebane,4.99,4-6 hours/day,31.1,456.41,Yes,25.0,481.41
+DRV-10678,Rasmus Laur,4.79,4-6 hours/day,39.4,547.57,Yes,15.0,562.57
+DRV-10679,Denis Vasiliev,4.91,4-6 hours/day,28.1,372.42,Yes,15.0,387.42
+DRV-10680,Jevgeni Novikov,4.65,4-6 hours/day,31.2,386.6,Yes,25.0,411.6
+DRV-10681,Aleksandr Kuznetsov,4.93,4-6 hours/day,34.8,445.98,Yes,35.0,480.98
+DRV-10682,Priit Kukk,5.0,4-6 hours/day,30.8,406.75,Yes,35.0,441.75
+DRV-10683,Jevgeni Novikov,4.95,4-6 hours/day,38.2,538.09,Yes,15.0,553.09
+DRV-10684,Kalle Kuusk,4.91,8 hours/day,48.3,625.68,No,0.0,625.68
+DRV-10685,Jānis Rebane,4.94,2-4 hours/day,21.3,304.35,No,0.0,304.35
+DRV-10686,Kristjan Saar,4.9,4-6 hours/day,39.1,554.24,Yes,15.0,569.24
+DRV-10687,Jānis Saar,4.98,2-4 hours/day,20.6,303.7,No,0.0,303.7
+DRV-10688,Kristjan Tamm,4.95,8 hours/day,49.5,649.2,No,0.0,649.2
+DRV-10689,Kristjan Oja,4.8,8 hours/day,47.1,695.92,No,0.0,695.92
+DRV-10690,Kaspar Lepp,4.93,2-4 hours/day,14.6,175.29,No,0.0,175.29
+DRV-10691,Mikhail Morozov,4.97,10 hours/day,66.0,845.46,No,0.0,845.46
+DRV-10692,Hendrik Sepp,4.98,8 hours/day,50.1,623.55,No,0.0,623.55
+DRV-10693,Oliver Laur,4.89,4-6 hours/day,38.7,564.41,Yes,15.0,579.41
+DRV-10694,Omar Wang,4.93,8 hours/day,51.6,760.07,No,0.0,760.07
+DRV-10695,Dmitri Kuznetsov,4.71,4-6 hours/day,28.2,418.47,No,0.0,418.47
+DRV-10696,Sergei Semenov,4.93,4-6 hours/day,28.9,391.12,No,0.0,391.12
+DRV-10697,Hendrik Vaher,4.92,< 2 hours/day,2.2,29.99,No,0.0,29.99
+DRV-10698,Sander Lõhmus,4.78,4-6 hours/day,31.3,408.66,No,0.0,408.66
+DRV-10699,Priit Kask,4.96,10 hours/day,62.9,827.56,No,0.0,827.56
+DRV-10700,Igor Alekseev,4.91,4-6 hours/day,38.9,544.32,Yes,35.0,579.32
+DRV-10701,Toomas Oja,4.87,< 2 hours/day,3.9,48.74,No,0.0,48.74
+DRV-10702,Martin Oja,4.95,8 hours/day,53.3,649.3,No,0.0,649.3
+DRV-10703,Kalle Kuusk,4.98,10 hours/day,68.6,907.98,No,0.0,907.98
+DRV-10704,Taavi Pärn,4.96,2-4 hours/day,19.6,251.73,No,0.0,251.73
+DRV-10705,Kalle Rebane,4.99,10 hours/day,68.6,958.88,No,0.0,958.88
+DRV-10706,Marko Ilves,4.95,10 hours/day,61.4,831.58,Yes,10.0,841.58
+DRV-10707,Karl Kallas,4.88,4-6 hours/day,34.2,508.08,Yes,15.0,523.08
+DRV-10708,Marko Raudsepp,4.82,< 2 hours/day,7.0,100.95,No,0.0,100.95
+DRV-10709,Andrus Rebane,4.98,4-6 hours/day,31.3,455.66,No,0.0,455.66
+DRV-10710,Priit Mets,4.8,2-4 hours/day,14.4,188.77,Yes,15.0,203.77
+DRV-10711,Dmitri Fedorov,4.86,10 hours/day,59.1,735.74,No,0.0,735.74
+DRV-10712,Mikhail Volkov,4.99,4-6 hours/day,36.1,531.16,Yes,25.0,556.16
+DRV-10713,Oliver Laur,4.97,10 hours/day,60.6,742.41,No,0.0,742.41
+DRV-10714,Alexandre Smirnov,5.0,4-6 hours/day,29.0,390.66,Yes,35.0,425.66
+DRV-10715,Jānis Oja,4.9,2-4 hours/day,22.6,275.4,No,0.0,275.4
+DRV-10716,Aleksandr Popov,4.87,8 hours/day,42.3,607.34,No,0.0,607.34
+DRV-10717,Toomas Kukk,4.98,2-4 hours/day,23.3,329.67,No,0.0,329.67
+DRV-10718,Pavel Kuznetsov,4.97,4-6 hours/day,35.4,440.03,No,0.0,440.03
+DRV-10719,Sander Mets,4.98,2-4 hours/day,19.7,248.3,No,0.0,248.3
+DRV-10720,Artur Morozov,4.75,4-6 hours/day,28.5,377.27,Yes,25.0,402.27
+DRV-10721,Singh Khan,4.81,4-6 hours/day,33.6,442.95,No,0.0,442.95
+DRV-10722,Margus Saar,4.87,8 hours/day,43.2,601.27,Yes,15.0,616.27
+DRV-10723,Mikk Raudsepp,4.99,2-4 hours/day,17.4,228.0,No,0.0,228.0
+DRV-10724,Marko Kask,4.91,4-6 hours/day,30.1,406.15,Yes,15.0,421.15
+DRV-10725,Kristjan Sepp,4.83,< 2 hours/day,8.0,99.83,No,0.0,99.83
+DRV-10726,Igor Petrov,4.62,4-6 hours/day,28.7,387.0,Yes,35.0,422.0
+DRV-10727,Andrus Oja,4.99,10 hours/day,63.5,872.39,No,0.0,872.39
+DRV-10728,Roman Petrov,4.95,4-6 hours/day,28.3,377.07,No,0.0,377.07
+DRV-10729,Kalle Sepp,4.9,< 2 hours/day,8.1,114.72,No,0.0,114.72
+DRV-10730,Lei Wang,4.99,4-6 hours/day,37.4,534.95,Yes,35.0,569.95
+DRV-10731,Artur Egorov,4.93,4-6 hours/day,33.8,500.34,No,0.0,500.34
+DRV-10732,Igor Alekseev,5.0,4-6 hours/day,39.7,552.5,Yes,15.0,567.5
+DRV-10733,Denis Morozov,4.98,4-6 hours/day,34.6,496.58,No,0.0,496.58
+DRV-10734,Singh Liu,4.96,4-6 hours/day,39.2,553.8,Yes,35.0,588.8
+DRV-10735,Sander Kuusk,4.85,8 hours/day,49.5,687.19,Yes,15.0,702.19
+DRV-10736,Kevad Rebane,4.96,4-6 hours/day,32.4,458.63,No,0.0,458.63
+DRV-10737,Jānis Oja,4.57,2-4 hours/day,18.1,221.4,No,0.0,221.4
+DRV-10738,Mikk Koppel,4.94,4-6 hours/day,30.3,364.87,Yes,15.0,379.87
+DRV-10739,Hendrik Kallas,4.9,4-6 hours/day,32.8,437.44,Yes,35.0,472.44
+DRV-10740,Margus Kallas,4.9,8 hours/day,45.2,566.39,No,0.0,566.39
+DRV-10741,Roman Kuznetsov,4.95,4-6 hours/day,28.5,409.34,Yes,25.0,434.34
+DRV-10742,Stanislav Volkov,4.94,4-6 hours/day,28.3,345.06,Yes,15.0,360.06
+DRV-10743,Margus Kukk,4.9,10 hours/day,56.6,688.16,No,0.0,688.16
+DRV-10744,Kevad Lõhmus,4.88,8 hours/day,51.0,701.99,No,0.0,701.99
+DRV-10745,Jānis Koppel,4.91,4-6 hours/day,30.0,400.49,Yes,25.0,425.49
+DRV-10746,Dmitri Novikov,4.92,4-6 hours/day,35.7,470.24,Yes,15.0,485.24
+DRV-10747,Kalle Mets,5.0,8 hours/day,48.7,727.74,No,0.0,727.74
+DRV-10748,Margus Rebane,4.86,2-4 hours/day,18.8,232.08,No,0.0,232.08
+DRV-10749,Priit Vaher,4.88,2-4 hours/day,22.3,327.37,Yes,10.0,337.37
+DRV-10750,Dmitri Volkov,4.83,8 hours/day,54.0,715.97,No,0.0,715.97
+DRV-10751,Hendrik Mets,5.0,< 2 hours/day,12.0,171.71,No,0.0,171.71
+DRV-10752,Rasmus Raudsepp,4.88,4-6 hours/day,32.9,465.14,No,0.0,465.14
+DRV-10753,Oliver Ilves,4.92,4-6 hours/day,34.1,490.92,No,0.0,490.92
+DRV-10754,Roman Semenov,4.86,4-6 hours/day,33.2,458.89,Yes,35.0,493.89
+DRV-10755,Martin Lõhmus,4.72,10 hours/day,61.0,871.32,No,0.0,871.32
+DRV-10756,Roman Fedorov,4.95,2-4 hours/day,18.3,219.79,No,0.0,219.79
+DRV-10757,Alexandre Vasiliev,4.97,4-6 hours/day,37.5,460.47,Yes,15.0,475.47
+DRV-10758,Maxim Ivanov,4.95,< 2 hours/day,4.2,58.3,No,0.0,58.3
+DRV-10759,Maxim Alekseev,4.91,10 hours/day,69.5,849.2,No,0.0,849.2
+DRV-10760,Vladimir Sokolov,4.81,4-6 hours/day,28.2,356.35,Yes,15.0,371.35
+DRV-10761,Vladimir Vasiliev,4.97,4-6 hours/day,32.4,448.09,Yes,25.0,473.09
+DRV-10762,Mikk Rebane,4.95,8 hours/day,50.7,759.34,No,0.0,759.34
+DRV-10763,Artur Popov,4.98,8 hours/day,45.8,551.87,No,0.0,551.87
+DRV-10764,Marko Sepp,4.87,2-4 hours/day,20.3,249.06,No,0.0,249.06
+DRV-10765,Vladimir Ivanov,4.96,8 hours/day,42.8,614.57,No,0.0,614.57
+DRV-10766,Roman Smirnov,4.95,8 hours/day,48.8,656.21,No,0.0,656.21
+DRV-10767,Kristjan Rebane,4.79,8 hours/day,42.6,533.04,Yes,10.0,543.04
+DRV-10768,Mikk Kask,4.89,4-6 hours/day,28.2,421.92,Yes,25.0,446.92
+DRV-10769,Vitali Sokolov,4.84,10 hours/day,56.4,815.11,No,0.0,815.11
+DRV-10770,Jānis Saar,4.8,4-6 hours/day,30.1,418.71,Yes,25.0,443.71
+DRV-10771,Kalle Pärn,4.97,10 hours/day,60.3,735.23,No,0.0,735.23
+DRV-10772,Mikk Mets,4.98,2-4 hours/day,21.0,264.49,Yes,10.0,274.49
+DRV-10773,Kaspar Lõhmus,4.91,4-6 hours/day,28.2,363.89,No,0.0,363.89
+DRV-10774,Andrei Popov,4.86,4-6 hours/day,29.9,377.87,Yes,35.0,412.87
+DRV-10775,Kristjan Ilves,4.93,8 hours/day,46.3,683.86,No,0.0,683.86
+DRV-10776,Taavi Lõhmus,4.95,10 hours/day,60.4,878.64,No,0.0,878.64
+DRV-10777,Mikk Nõmm,4.81,8 hours/day,45.9,653.46,No,0.0,653.46
+DRV-10778,Martin Mets,4.99,2-4 hours/day,24.5,346.7,Yes,15.0,361.7
+DRV-10779,Denis Lebedev,4.95,< 2 hours/day,10.4,136.4,No,0.0,136.4
+DRV-10780,Hendrik Ilves,5.0,2-4 hours/day,21.2,309.64,No,0.0,309.64
+DRV-10781,Denis Egorov,4.93,8 hours/day,53.7,730.04,Yes,15.0,745.04
+DRV-10782,Lukas Koppel,4.81,2-4 hours/day,22.8,312.04,No,0.0,312.04
+DRV-10783,Artur Petrov,4.91,4-6 hours/day,38.1,474.24,Yes,25.0,499.24
+DRV-10784,Priit Kask,4.98,8 hours/day,53.2,783.63,No,0.0,783.63
+DRV-10785,Kristjan Laur,4.87,8 hours/day,49.4,640.6,No,0.0,640.6
+DRV-10786,Lei Zhang,4.97,8 hours/day,48.1,670.42,No,0.0,670.42
+DRV-10787,Siim Lepp,4.82,< 2 hours/day,11.6,165.43,No,0.0,165.43
+DRV-10788,Oliver Lepp,4.98,2-4 hours/day,18.8,280.22,No,0.0,280.22
+DRV-10789,Priit Vaher,4.93,< 2 hours/day,3.1,44.58,No,0.0,44.58
+DRV-10790,Oliver Ilves,4.82,4-6 hours/day,28.9,429.52,Yes,35.0,464.52
+DRV-10791,Karl Kukk,4.82,4-6 hours/day,31.3,447.15,Yes,35.0,482.15
+DRV-10792,Marko Oja,4.92,< 2 hours/day,8.0,96.49,No,0.0,96.49
+DRV-10793,Sander Tamm,4.97,2-4 hours/day,23.0,289.02,Yes,15.0,304.02
+DRV-10794,Roman Volkov,4.85,8 hours/day,52.6,748.02,No,0.0,748.02
+DRV-10795,Alexandre Egorov,4.97,10 hours/day,67.5,971.07,No,0.0,971.07
+DRV-10796,Andrus Sepp,4.8,< 2 hours/day,8.9,108.46,No,0.0,108.46
+DRV-10797,Kaspar Pärn,4.95,4-6 hours/day,29.7,407.73,Yes,35.0,442.73
+DRV-10798,Sander Kuusk,4.97,4-6 hours/day,30.8,445.01,Yes,15.0,460.01
+DRV-10799,Kaspar Raudsepp,4.91,4-6 hours/day,34.6,484.12,Yes,25.0,509.12
+DRV-10800,Andrei Morozov,4.91,2-4 hours/day,21.9,301.53,Yes,10.0,311.53
+DRV-10801,Lukas Kukk,4.9,4-6 hours/day,28.8,397.47,Yes,15.0,412.47
+DRV-10802,Karl Vaher,4.94,4-6 hours/day,35.9,496.82,Yes,35.0,531.82
+DRV-10803,Dmitri Novikov,4.95,4-6 hours/day,35.1,502.47,Yes,15.0,517.47
+DRV-10804,Margus Nõmm,4.98,10 hours/day,63.3,791.78,No,0.0,791.78
+DRV-10805,Nikolai Popov,4.99,8 hours/day,52.6,729.26,Yes,15.0,744.26
+DRV-10806,Nikolai Novikov,4.95,4-6 hours/day,36.4,513.49,Yes,35.0,548.49
+DRV-10807,Kevad Koppel,4.97,2-4 hours/day,16.5,219.96,No,0.0,219.96
+DRV-10808,Maxim Fedorov,4.88,10 hours/day,68.4,1019.57,No,0.0,1019.57
+DRV-10809,Siim Kuusk,4.96,2-4 hours/day,16.2,211.63,Yes,10.0,221.63
+DRV-10810,Sergei Egorov,4.82,4-6 hours/day,33.6,438.43,No,0.0,438.43
+DRV-10811,Stanislav Lebedev,4.89,2-4 hours/day,15.8,191.14,No,0.0,191.14
+DRV-10812,Mikhail Popov,4.97,4-6 hours/day,30.8,383.14,No,0.0,383.14
+DRV-10813,Stanislav Novikov,4.85,8 hours/day,42.6,553.08,No,0.0,553.08
+DRV-10814,Toomas Laur,4.7,10 hours/day,60.1,862.9,No,0.0,862.9
+DRV-10815,Lukas Kask,4.96,10 hours/day,63.3,851.35,No,0.0,851.35
+DRV-10816,Martin Laur,5.0,8 hours/day,46.2,687.15,Yes,10.0,697.15
+DRV-10817,Mikhail Morozov,4.99,< 2 hours/day,10.6,139.84,No,0.0,139.84
+DRV-10818,Stanislav Alekseev,4.99,< 2 hours/day,11.6,173.2,No,0.0,173.2
+DRV-10819,Mikhail Petrov,4.93,4-6 hours/day,36.5,494.67,Yes,35.0,529.67
+DRV-10820,Mikhail Kuznetsov,4.94,8 hours/day,42.3,611.32,No,0.0,611.32
+DRV-10821,Aleksandr Volkov,4.91,8 hours/day,50.9,632.4,No,0.0,632.4
+DRV-10822,Siim Koppel,4.98,4-6 hours/day,32.6,458.46,Yes,25.0,483.46
+DRV-10823,Siim Kallas,4.93,8 hours/day,51.6,758.35,Yes,15.0,773.35
+DRV-10824,Lei Novak,5.0,< 2 hours/day,7.4,96.6,No,0.0,96.6
+DRV-10825,Singh Liu,4.92,10 hours/day,66.2,979.31,No,0.0,979.31
+DRV-10826,Hendrik Ilves,4.97,2-4 hours/day,15.9,219.39,No,0.0,219.39
+DRV-10827,Denis Petrov,4.94,< 2 hours/day,5.4,78.41,No,0.0,78.41
+DRV-10828,Sander Mets,4.9,4-6 hours/day,35.6,495.15,Yes,35.0,530.15
+DRV-10829,Kaspar Kukk,4.9,10 hours/day,59.5,770.7,No,0.0,770.7
+DRV-10830,Marko Nõmm,4.93,8 hours/day,46.9,618.43,Yes,15.0,633.43
+DRV-10831,Martin Kukk,5.0,4-6 hours/day,35.4,449.93,No,0.0,449.93
+DRV-10832,Kaspar Kask,4.93,4-6 hours/day,39.4,483.67,No,0.0,483.67
+DRV-10833,Jānis Kukk,4.98,2-4 hours/day,16.2,234.98,Yes,10.0,244.98
+DRV-10834,Aleksandr Sokolov,4.81,< 2 hours/day,10.2,130.5,No,0.0,130.5
+DRV-10835,Pavel Vasiliev,4.96,2-4 hours/day,20.6,250.26,No,0.0,250.26
+DRV-10836,Hendrik Ilves,4.88,8 hours/day,43.5,627.92,No,0.0,627.92
+DRV-10837,Andrei Vasiliev,4.97,4-6 hours/day,35.2,480.1,No,0.0,480.1
+DRV-10838,Aleksandr Popov,4.96,2-4 hours/day,17.0,220.36,No,0.0,220.36
+DRV-10839,Lukas Pärn,4.88,4-6 hours/day,38.1,526.05,No,0.0,526.05
+DRV-10840,Martin Lepp,4.95,4-6 hours/day,28.1,345.23,No,0.0,345.23
+DRV-10841,Kristjan Tamm,4.93,4-6 hours/day,34.6,417.6,Yes,15.0,432.6
+DRV-10842,Artur Semenov,4.67,8 hours/day,44.0,568.79,Yes,15.0,583.79
+DRV-10843,Margus Koppel,4.83,< 2 hours/day,10.6,143.55,No,0.0,143.55
+DRV-10844,Kristjan Koppel,4.96,2-4 hours/day,19.8,290.59,No,0.0,290.59
+DRV-10845,Jevgeni Vasiliev,4.91,8 hours/day,50.5,615.23,No,0.0,615.23
+DRV-10846,Rasmus Raudsepp,4.94,2-4 hours/day,16.4,243.5,No,0.0,243.5
+DRV-10847,Rasmus Kask,4.99,10 hours/day,65.8,962.22,No,0.0,962.22
+DRV-10848,Igor Popov,4.99,8 hours/day,42.8,542.14,No,0.0,542.14
+DRV-10849,Lukas Kallas,4.84,8 hours/day,46.6,696.62,No,0.0,696.62
+DRV-10850,Oliver Kuusk,4.96,4-6 hours/day,31.6,383.82,No,0.0,383.82
+DRV-10851,Taavi Kallas,4.99,2-4 hours/day,24.4,334.98,Yes,10.0,344.98
+DRV-10852,Vladimir Smirnov,4.86,10 hours/day,69.6,989.91,No,0.0,989.91
+DRV-10853,Pavel Vasiliev,4.99,< 2 hours/day,4.7,62.31,No,0.0,62.31
+DRV-10854,Priit Sepp,5.0,< 2 hours/day,2.1,30.97,No,0.0,30.97
+DRV-10855,Aleksandr Volkov,5.0,2-4 hours/day,18.8,236.63,Yes,15.0,251.63
+DRV-10856,Martin Vaher,4.97,8 hours/day,45.6,597.55,No,0.0,597.55
+DRV-10857,Sergei Lebedev,4.9,< 2 hours/day,8.2,108.12,No,0.0,108.12
+DRV-10858,Karl Kallas,4.95,< 2 hours/day,3.8,52.41,No,0.0,52.41
+DRV-10859,Toomas Pärn,4.92,2-4 hours/day,21.7,262.27,Yes,10.0,272.27
+DRV-10860,Marko Lõhmus,4.92,2-4 hours/day,14.1,190.59,No,0.0,190.59
+DRV-10861,Priit Kuusk,4.97,10 hours/day,58.4,728.28,No,0.0,728.28
+DRV-10862,Igor Smirnov,4.99,4-6 hours/day,32.0,408.27,Yes,35.0,443.27
+DRV-10863,Kevad Kallas,4.73,8 hours/day,52.6,656.52,No,0.0,656.52
+DRV-10864,Lukas Nõmm,4.97,2-4 hours/day,24.8,312.84,Yes,15.0,327.84
+DRV-10865,Andrus Rebane,4.98,10 hours/day,68.4,964.1,No,0.0,964.1
+DRV-10866,Kaspar Pärn,4.9,8 hours/day,50.3,735.98,No,0.0,735.98
+DRV-10867,Singh Liu,4.81,4-6 hours/day,34.0,433.62,Yes,35.0,468.62
+DRV-10868,Andrus Nõmm,4.81,< 2 hours/day,11.9,166.24,No,0.0,166.24
+DRV-10869,Kevad Vaher,4.92,2-4 hours/day,25.0,324.84,No,0.0,324.84
+DRV-10870,Rasmus Kuusk,4.96,< 2 hours/day,5.6,73.11,No,0.0,73.11
+DRV-10871,Roman Ivanov,4.96,10 hours/day,63.7,937.11,No,0.0,937.11
+DRV-10872,Margus Pärn,4.89,2-4 hours/day,24.8,369.34,No,0.0,369.34
+DRV-10873,Andrus Tamm,4.99,4-6 hours/day,31.8,393.5,Yes,35.0,428.5
+DRV-10874,Hendrik Kask,4.98,4-6 hours/day,33.1,470.85,No,0.0,470.85
+DRV-10875,Omar Khan,4.95,< 2 hours/day,7.8,114.06,No,0.0,114.06
+DRV-10876,Nikolai Vasiliev,4.99,4-6 hours/day,30.9,416.69,No,0.0,416.69
+DRV-10877,Marko Kallas,4.97,8 hours/day,51.5,752.39,No,0.0,752.39
+DRV-10878,Stanislav Semenov,5.0,2-4 hours/day,18.7,256.71,No,0.0,256.71
+DRV-10879,Sander Kuusk,4.93,4-6 hours/day,35.3,483.95,No,0.0,483.95
+DRV-10880,Kalle Koppel,4.91,8 hours/day,46.4,678.24,No,0.0,678.24
+DRV-10881,Oliver Kuusk,4.69,< 2 hours/day,6.8,99.21,No,0.0,99.21
+DRV-10882,Andrei Alekseev,4.98,8 hours/day,53.8,686.24,No,0.0,686.24
+DRV-10883,Nikolai Volkov,4.9,8 hours/day,52.7,762.4,No,0.0,762.4
+DRV-10884,Siim Kuusk,4.95,4-6 hours/day,28.9,374.68,No,0.0,374.68
+DRV-10885,Siim Kallas,4.83,10 hours/day,65.8,981.17,Yes,10.0,991.17
+DRV-10886,Mikhail Petrov,4.95,2-4 hours/day,23.2,328.66,No,0.0,328.66
+DRV-10887,Taavi Sepp,4.99,10 hours/day,67.4,865.63,No,0.0,865.63
+DRV-10888,Maxim Morozov,4.95,8 hours/day,53.3,677.47,No,0.0,677.47
+DRV-10889,Vitali Petrov,4.99,< 2 hours/day,3.4,50.28,No,0.0,50.28
+DRV-10890,Hendrik Oja,4.91,8 hours/day,43.8,628.62,No,0.0,628.62
+DRV-10891,Andrus Pärn,4.99,2-4 hours/day,20.9,296.15,No,0.0,296.15
+DRV-10892,Dmitri Smirnov,4.92,4-6 hours/day,39.9,480.44,Yes,35.0,515.44
+DRV-10893,Sergei Kuznetsov,4.95,4-6 hours/day,36.4,492.44,Yes,35.0,527.44
+DRV-10894,Taavi Nõmm,4.76,10 hours/day,67.8,884.1,Yes,10.0,894.1
+DRV-10895,Maxim Morozov,4.91,4-6 hours/day,37.6,557.91,Yes,35.0,592.91
+DRV-10896,Kaspar Raudsepp,4.88,< 2 hours/day,2.3,28.81,No,0.0,28.81
+DRV-10897,Jānis Mets,4.99,4-6 hours/day,29.7,432.92,No,0.0,432.92
+DRV-10898,Oliver Koppel,4.94,4-6 hours/day,32.8,454.86,Yes,35.0,489.86
+DRV-10899,Kevad Laur,4.74,10 hours/day,68.0,917.07,No,0.0,917.07
+DRV-10900,Siim Tamm,4.86,2-4 hours/day,17.1,218.94,Yes,15.0,233.94
+DRV-10901,Pavel Lebedev,4.89,< 2 hours/day,6.7,93.26,No,0.0,93.26
+DRV-10902,Kristjan Ilves,4.97,4-6 hours/day,29.1,396.93,Yes,35.0,431.93
+DRV-10903,Toomas Kask,4.99,4-6 hours/day,32.4,481.56,No,0.0,481.56
+DRV-10904,Lukas Rebane,4.91,4-6 hours/day,32.7,456.03,No,0.0,456.03
+DRV-10905,Dmitri Egorov,4.92,2-4 hours/day,18.4,260.19,Yes,15.0,275.19
+DRV-10906,Marko Pärn,4.94,8 hours/day,42.5,588.96,Yes,10.0,598.96
+DRV-10907,Taavi Sepp,5.0,4-6 hours/day,30.8,395.69,No,0.0,395.69
+DRV-10908,Dmitri Morozov,4.97,4-6 hours/day,34.7,448.96,No,0.0,448.96
+DRV-10909,Toomas Rebane,4.99,< 2 hours/day,8.4,102.21,No,0.0,102.21
+DRV-10910,Mikhail Ivanov,4.94,2-4 hours/day,18.1,237.94,No,0.0,237.94
+DRV-10911,Vladimir Lebedev,4.98,2-4 hours/day,23.4,316.16,No,0.0,316.16
+DRV-10912,Margus Saar,4.89,2-4 hours/day,14.2,171.96,No,0.0,171.96
+DRV-10913,Vladimir Popov,4.87,10 hours/day,62.1,870.68,No,0.0,870.68
+DRV-10914,Sander Kukk,4.89,8 hours/day,48.9,614.49,No,0.0,614.49
+DRV-10915,Kevad Lepp,4.92,2-4 hours/day,24.8,333.13,No,0.0,333.13
+DRV-10916,Dmitri Kuznetsov,4.97,8 hours/day,48.6,704.28,No,0.0,704.28
+DRV-10917,Siim Koppel,4.97,< 2 hours/day,5.3,72.96,No,0.0,72.96
+DRV-10918,Jevgeni Volkov,4.98,10 hours/day,57.6,799.33,No,0.0,799.33
+DRV-10919,Sergei Kuznetsov,4.93,4-6 hours/day,37.0,528.88,Yes,15.0,543.88
+DRV-10920,Priit Tamm,4.99,8 hours/day,42.1,514.32,Yes,10.0,524.32
+DRV-10921,Kaspar Rebane,4.97,4-6 hours/day,28.8,402.15,Yes,35.0,437.15
+DRV-10922,Stanislav Ivanov,4.75,2-4 hours/day,21.3,303.38,No,0.0,303.38
+DRV-10923,Marko Saar,4.79,10 hours/day,58.9,765.99,Yes,10.0,775.99
+DRV-10924,Stanislav Semenov,4.96,2-4 hours/day,21.9,319.86,Yes,15.0,334.86
+DRV-10925,Roman Egorov,4.97,4-6 hours/day,37.1,509.77,Yes,15.0,524.77
+DRV-10926,Mikk Kukk,5.0,8 hours/day,46.3,628.58,Yes,15.0,643.58
+DRV-10927,Andrei Fedorov,4.97,4-6 hours/day,30.4,454.6,Yes,15.0,469.6
+DRV-10928,Karl Lõhmus,4.95,< 2 hours/day,6.1,74.57,No,0.0,74.57
+DRV-10929,Oliver Mets,4.94,10 hours/day,60.8,908.2,No,0.0,908.2
+DRV-10930,Hendrik Lepp,4.96,8 hours/day,43.1,627.86,No,0.0,627.86
+DRV-10931,Dmitri Popov,4.99,4-6 hours/day,30.8,410.46,No,0.0,410.46
+DRV-10932,Aleksandr Novikov,4.99,4-6 hours/day,36.7,534.67,Yes,35.0,569.67
+DRV-10933,Nikolai Popov,4.92,4-6 hours/day,30.6,386.59,No,0.0,386.59
+DRV-10934,Stanislav Popov,4.81,2-4 hours/day,19.4,255.42,Yes,15.0,270.42
+DRV-10935,Pavel Kuznetsov,4.92,2-4 hours/day,19.4,272.15,No,0.0,272.15
+DRV-10936,Lukas Pärn,4.92,< 2 hours/day,9.2,116.27,No,0.0,116.27
+DRV-10937,Karl Kallas,4.98,8 hours/day,42.9,602.77,No,0.0,602.77
+DRV-10938,Sergei Semenov,4.93,4-6 hours/day,39.5,561.67,Yes,35.0,596.67
+DRV-10939,Hendrik Mets,4.85,10 hours/day,58.5,748.11,No,0.0,748.11
+DRV-10940,Martin Lõhmus,4.92,4-6 hours/day,30.0,447.21,Yes,15.0,462.21
+DRV-10941,Sergei Kuznetsov,4.99,4-6 hours/day,30.8,386.18,No,0.0,386.18
+DRV-10942,Omar Chen,4.94,10 hours/day,59.1,715.68,Yes,10.0,725.68
+DRV-10943,Siim Mets,4.88,2-4 hours/day,14.2,175.07,No,0.0,175.07
+DRV-10944,Hendrik Rebane,4.96,4-6 hours/day,39.1,583.96,No,0.0,583.96
+DRV-10945,Wei Novak,4.75,4-6 hours/day,33.1,433.74,Yes,25.0,458.74
+DRV-10946,Denis Egorov,4.98,8 hours/day,52.3,643.95,No,0.0,643.95
+DRV-10947,Priit Tamm,4.9,4-6 hours/day,37.2,521.3,No,0.0,521.3
+DRV-10948,Oliver Ilves,4.97,2-4 hours/day,23.2,299.2,No,0.0,299.2
+DRV-10949,Kaspar Vaher,4.98,8 hours/day,48.5,606.22,No,0.0,606.22
+DRV-10950,Jānis Kask,4.91,2-4 hours/day,16.6,212.88,Yes,10.0,222.88
+DRV-10951,Jānis Kukk,4.99,4-6 hours/day,39.6,532.08,Yes,35.0,567.08
+DRV-10952,Kalle Laur,4.93,4-6 hours/day,33.1,461.9,Yes,35.0,496.9
+DRV-10953,Sergei Popov,4.98,8 hours/day,48.0,585.38,No,0.0,585.38
+DRV-10954,Kevad Sepp,4.85,4-6 hours/day,37.4,495.92,Yes,15.0,510.92
+DRV-10955,Marko Nõmm,4.86,2-4 hours/day,18.6,240.87,Yes,10.0,250.87
+DRV-10956,Priit Raudsepp,4.96,< 2 hours/day,6.1,87.52,No,0.0,87.52
+DRV-10957,Taavi Lepp,4.96,10 hours/day,64.9,840.98,No,0.0,840.98
+DRV-10958,Dmitri Kuznetsov,4.91,4-6 hours/day,34.6,504.12,Yes,35.0,539.12
+DRV-10959,Taavi Rebane,4.87,8 hours/day,45.4,555.07,No,0.0,555.07
+DRV-10960,Nikolai Petrov,4.98,4-6 hours/day,29.1,385.96,No,0.0,385.96
+DRV-10961,Toomas Mets,4.92,4-6 hours/day,36.1,483.25,No,0.0,483.25
+DRV-10962,Andrei Kuznetsov,4.91,< 2 hours/day,6.5,92.66,No,0.0,92.66
+DRV-10963,Dmitri Semenov,5.0,4-6 hours/day,29.3,407.56,Yes,25.0,432.56
+DRV-10964,Margus Vaher,4.9,< 2 hours/day,10.7,144.07,No,0.0,144.07
+DRV-10965,Nikolai Kuznetsov,4.89,8 hours/day,47.3,585.3,No,0.0,585.3
+DRV-10966,Sander Pärn,4.94,4-6 hours/day,35.3,445.24,No,0.0,445.24
+DRV-10967,Taavi Kask,4.94,4-6 hours/day,32.1,430.39,No,0.0,430.39
+DRV-10968,Margus Nõmm,4.92,8 hours/day,51.8,732.03,Yes,15.0,747.03
+DRV-10969,Mikk Lepp,4.97,< 2 hours/day,5.6,69.5,No,0.0,69.5
+DRV-10970,Wei Wang,4.92,2-4 hours/day,24.5,313.75,No,0.0,313.75
+DRV-10971,Jānis Mägi,4.86,4-6 hours/day,35.5,431.81,No,0.0,431.81
+DRV-10972,Oliver Raudsepp,4.91,10 hours/day,69.7,846.41,No,0.0,846.41
+DRV-10973,Hendrik Mägi,4.96,8 hours/day,48.0,681.26,No,0.0,681.26
+DRV-10974,Mikk Kask,4.99,4-6 hours/day,39.5,522.01,No,0.0,522.01
+DRV-10975,Taavi Kask,4.94,4-6 hours/day,35.5,433.98,Yes,15.0,448.98
+DRV-10976,Kalle Kallas,4.93,< 2 hours/day,3.1,42.95,No,0.0,42.95
+DRV-10977,Toomas Raudsepp,4.93,8 hours/day,43.5,630.55,No,0.0,630.55
+DRV-10978,Siim Mets,4.94,4-6 hours/day,36.5,470.53,No,0.0,470.53
+DRV-10979,Roman Sokolov,4.88,8 hours/day,47.3,619.66,No,0.0,619.66
+DRV-10980,Oliver Oja,4.96,10 hours/day,58.5,801.14,No,0.0,801.14
+DRV-10981,Jānis Kask,4.87,4-6 hours/day,31.6,388.85,Yes,15.0,403.85
+DRV-10982,Jānis Mets,4.92,< 2 hours/day,4.0,58.89,No,0.0,58.89
+DRV-10983,Stanislav Vasiliev,4.98,4-6 hours/day,28.4,380.19,Yes,15.0,395.19
+DRV-10984,Andrus Tamm,4.83,8 hours/day,45.9,596.77,No,0.0,596.77
+DRV-10985,Martin Pärn,4.89,< 2 hours/day,10.8,154.78,No,0.0,154.78
+DRV-10986,Taavi Saar,4.6,4-6 hours/day,36.0,488.59,Yes,25.0,513.59
+DRV-10987,Stanislav Volkov,4.94,< 2 hours/day,2.5,36.77,No,0.0,36.77
+DRV-10988,Kristjan Laur,4.88,4-6 hours/day,38.0,546.54,No,0.0,546.54
+DRV-10989,Vladimir Volkov,4.98,4-6 hours/day,35.0,472.19,No,0.0,472.19
+DRV-10990,Marko Saar,4.97,4-6 hours/day,28.2,376.96,No,0.0,376.96
+DRV-10991,Rasmus Kask,4.98,2-4 hours/day,17.6,225.1,No,0.0,225.1
+DRV-10992,Lukas Mägi,4.91,< 2 hours/day,6.7,95.32,No,0.0,95.32
+DRV-10993,Maxim Alekseev,4.97,2-4 hours/day,15.0,195.53,Yes,10.0,205.53
+DRV-10994,Jānis Vaher,4.78,< 2 hours/day,3.8,48.0,No,0.0,48.0
+DRV-10995,Toomas Lõhmus,4.92,4-6 hours/day,39.0,507.67,Yes,25.0,532.67
+DRV-10996,Stanislav Smirnov,4.97,4-6 hours/day,38.2,553.46,No,0.0,553.46
+DRV-10997,Anton Egorov,4.99,8 hours/day,43.9,566.39,No,0.0,566.39
+DRV-10998,Oliver Sepp,4.98,2-4 hours/day,23.7,326.7,Yes,10.0,336.7
+DRV-10999,Jevgeni Lebedev,4.93,10 hours/day,66.6,811.33,No,0.0,811.33
